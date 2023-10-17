@@ -38,7 +38,13 @@ export const Courses = () => (
 export const Services = () => (
   <Fragment>
     <li>
+      <Link href="/course-grid">Website Designing</Link>
+    </li>
+    <li>
       <Link href="/course-grid">Website Development</Link>
+    </li>
+    <li>
+      <Link href="/course-details">Web Hosting</Link>
     </li>
     <li>
       <Link href="/course-list">App Development</Link>
@@ -47,7 +53,7 @@ export const Services = () => (
       <Link href="/course-timeline">Digital Marketing</Link>
     </li>
     <li>
-      <Link href="/course-details">Booking</Link>
+      <Link href="/course-details">Graphic Designing</Link>
     </li>
   </Fragment>
 );

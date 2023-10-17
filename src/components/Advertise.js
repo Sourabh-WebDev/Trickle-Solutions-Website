@@ -7,10 +7,9 @@ const Advertise = () => {
       <div className="col-lg-6">
         <div className="advertise-item wow fadeInUp delay-0-2s">
           <div className="content">
-            <h4>Become An Instructor?</h4>
+            <h4>Become An Employee?</h4>
             <p>
-              Sit amet consectetur adipiscing sed eiusmod tempore dolore magna
-              suspendisse
+              We're looking for dedicated individuals to join our team, bringing their skills and passion to fuel our company's success.
             </p>
             <Link href="/contact">
               <a className="theme-btn">
@@ -26,13 +25,13 @@ const Advertise = () => {
       <div className="col-lg-6">
         <div className="advertise-item bg-two wow fadeInUp delay-0-4s">
           <div className="content">
-            <h4>Get Online Courses</h4>
+            <h4>Get Our Services</h4>
             <p>
-              Amet consectetur adipiscing sed eius tempore dolore magna suspens
+              Our services encompass a wide range of solutions designed to meet your specific needs and drive success in your business.
             </p>
             <Link href="/contact">
               <a className="theme-btn style-two">
-                Join with us <i className="fas fa-arrow-right" />
+                Our Services <i className="fas fa-arrow-right" />
               </a>
             </Link>
           </div>

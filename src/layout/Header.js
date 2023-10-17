@@ -343,8 +343,8 @@ const Header1 = ({ navToggle, setNavToggle }) => (
               </div>
 
               <Link href="/contact">
-                <a className="theme-btn">
-                  Register <i className="fas fa-arrow-right" />
+                <a className="theme-btn text-nowrap">
+                  Get a Free Quote <i className="fas fa-arrow-right" />
                 </a>
               </Link>
             </div>

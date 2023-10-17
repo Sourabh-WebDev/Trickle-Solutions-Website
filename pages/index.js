@@ -51,7 +51,7 @@ const Index = () => {
                 <div className="hero-btns mt-10 wow fadeInUp delay-0-8s">
                   <Link href="/contact">
                     <a className="theme-btn mt-10">
-                      Get started <i className="fas fa-arrow-right" />
+                      Free Quote <i className="fas fa-arrow-right" />
                     </a>
                   </Link>
                   <Link href="/course-grid">
@@ -185,6 +185,202 @@ const Index = () => {
         </div>
       </section>
       {/* Feature Section End */}
+      {/* Top websites */}
+      <section className="coach-section-three bg-lighter rel z-1 pt-180 rpt-150 pb-130 rpb-100">
+        <div className="container">
+          <div className="row justify-content-center">
+            <div className="col-xl-6 col-lg-7 col-md-8">
+              <div className="section-title text-center mb-45">
+                <h2>
+                  Explore Our Websites<span> Portfolio</span>
+                </h2>
+              </div>
+            </div>
+          </div>
+          <Slider {...coachSlider} className="coach-slider">
+            <div className="coach-item-three wow fadeInUp delay-0-2s">
+              <div className="image">
+                <img src="assets/images/coachs/course-three1.jpg" alt="Coach" />
+                <div className="price">256</div>
+              </div>
+              <div className="content">
+                <ul className="coach-footer">
+                  <li>
+                    <i className="far fa-file-alt" />
+                    <span>12 Lessions</span>
+                  </li>
+                  <li>
+                    <i className="far fa-user" />
+                    <span>25 seats</span>
+                  </li>
+                </ul>
+                <h4>
+                  <Link href="/course-details">
+                    Learn How to Learn Basic Web Design (UX/UI)
+                  </Link>
+                </h4>
+                <div className="author">
+                  <img
+                    src="assets/images/coachs/course-author-three1.png"
+                    alt="Author"
+                  />
+                  <h6>Richard L. Ramsey</h6>
+                </div>
+              </div>
+            </div>
+            <div className="coach-item-three wow fadeInUp delay-0-4s">
+              <div className="image">
+                <img src="assets/images/coachs/course-three2.jpg" alt="Coach" />
+                <div className="price">0.0</div>
+              </div>
+              <div className="content">
+                <ul className="coach-footer">
+                  <li>
+                    <i className="far fa-file-alt" />
+                    <span>12 Lessions</span>
+                  </li>
+                  <li>
+                    <i className="far fa-user" />
+                    <span>25 seats</span>
+                  </li>
+                </ul>
+                <h4>
+                  <Link href="/course-details">
+                    Learn How to Learn Basic Web Development
+                  </Link>
+                </h4>
+                <div className="author">
+                  <img
+                    src="assets/images/coachs/course-author-three2.png"
+                    alt="Author"
+                  />
+                  <h6>Jason M. Parker</h6>
+                </div>
+              </div>
+            </div>
+            <div className="coach-item-three wow fadeInUp delay-0-6s">
+              <div className="image">
+                <img src="assets/images/coachs/course-three3.jpg" alt="Coach" />
+                <div className="price">306</div>
+              </div>
+              <div className="content">
+                <ul className="coach-footer">
+                  <li>
+                    <i className="far fa-file-alt" />
+                    <span>12 Lessions</span>
+                  </li>
+                  <li>
+                    <i className="far fa-user" />
+                    <span>25 seats</span>
+                  </li>
+                </ul>
+                <h4>
+                  <Link href="/course-details">
+                    Learn How Learn Advance Web Development
+                  </Link>
+                </h4>
+                <div className="author">
+                  <img
+                    src="assets/images/coachs/course-author-three3.png"
+                    alt="Author"
+                  />
+                  <h6>Richard L. Ramsey</h6>
+                </div>
+              </div>
+            </div>
+            <div className="coach-item-three wow fadeInUp delay-0-2s">
+              <div className="image">
+                <img src="assets/images/coachs/course-three1.jpg" alt="Coach" />
+                <div className="price">256</div>
+              </div>
+              <div className="content">
+                <ul className="coach-footer">
+                  <li>
+                    <i className="far fa-file-alt" />
+                    <span>12 Lessions</span>
+                  </li>
+                  <li>
+                    <i className="far fa-user" />
+                    <span>25 seats</span>
+                  </li>
+                </ul>
+                <h4>
+                  <Link href="/course-details">
+                    Learn How to Learn Basic Web Design (UX/UI)
+                  </Link>
+                </h4>
+                <div className="author">
+                  <img
+                    src="assets/images/coachs/course-author-three1.png"
+                    alt="Author"
+                  />
+                  <h6>Richard L. Ramsey</h6>
+                </div>
+              </div>
+            </div>
+            <div className="coach-item-three wow fadeInUp delay-0-4s">
+              <div className="image">
+                <img src="assets/images/coachs/course-three2.jpg" alt="Coach" />
+                <div className="price">0.0</div>
+              </div>
+              <div className="content">
+                <ul className="coach-footer">
+                  <li>
+                    <i className="far fa-file-alt" />
+                    <span>12 Lessions</span>
+                  </li>
+                  <li>
+                    <i className="far fa-user" />
+                    <span>25 seats</span>
+                  </li>
+                </ul>
+                <h4>
+                  <Link href="/course-details">
+                    Learn How to Learn Basic Web Development
+                  </Link>
+                </h4>
+                <div className="author">
+                  <img
+                    src="assets/images/coachs/course-author-three2.png"
+                    alt="Author"
+                  />
+                  <h6>Jason M. Parker</h6>
+                </div>
+              </div>
+            </div>
+            <div className="coach-item-three wow fadeInUp delay-0-6s">
+              <div className="image">
+                <img src="assets/images/coachs/course-three3.jpg" alt="Coach" />
+                <div className="price">306</div>
+              </div>
+              <div className="content">
+                <ul className="coach-footer">
+                  <li>
+                    <i className="far fa-file-alt" />
+                    <span>12 Lessions</span>
+                  </li>
+                  <li>
+                    <i className="far fa-user" />
+                    <span>25 seats</span>
+                  </li>
+                </ul>
+                <h4>
+                  <Link href="/course-details">
+                    Learn How Learn Advance Web Development
+                  </Link>
+                </h4>
+                <div className="author">
+                  <img
+                    src="assets/images/coachs/course-author-three3.png"
+                    alt="Author"
+                  />
+                  <h6>Richard L. Ramsey</h6>
+                </div>
+              </div>
+            </div>
+          </Slider>
+        </div>
+      </section>
       {/* About Start */}
       <section className="about-four-section pb-130 rpb-100">
         <div className="container">
@@ -192,10 +388,10 @@ const Index = () => {
             <div className="col-xl-5 col-lg-6">
               <div className="about-four-content rmb-55 wow fadeInLeft delay-0-2s">
                 <div className="section-title mb-25">
-                  <span className="sub-title-three">About Wellearn</span>
+                  <span className="sub-title-three">About Trickle Solutions</span>
                   <h2>
-                    Know <span>Something</span> About Our Programs Culture at
-                    Wellearn
+                    Know <span>Something</span> About Our Company at
+                    Trickle Solutions
                   </h2>
                 </div>
                 <p>
@@ -231,11 +427,11 @@ const Index = () => {
                   <span className="counter-number">
                     <span />
                   </span>
-                  <h4>85% Saticfied Students</h4>
+                  <h4>99% Saticfied Customers</h4>
                 </div>
                 <div className="experience text-white bg-light-blue br-5">
                   <i className="fas fa-graduation-cap" />
-                  <h5>Experience Advisor</h5>
+                  <h5>Experienced Developer</h5>
                 </div>
               </div>
             </div>
@@ -267,7 +463,7 @@ const Index = () => {
                 data-speed={3000}
                 data-stop={2456}
               >
-                <Counter end={2456} />
+                <Counter end={487} />
               </span>
               <span>
                 Happy
@@ -295,7 +491,7 @@ const Index = () => {
                 data-speed={3000}
                 data-stop={2563}
               >
-                <Counter end={2563} />
+                <Counter end={8} />
               </span>
               <span>
                 Year of
@@ -314,7 +510,7 @@ const Index = () => {
             <div className="col-xl-6 col-lg-7 col-md-8">
               <div className="section-title text-center mb-45">
                 <h2>
-                  Best Solutions <span>For Life</span> Coach Solutions
+                  Best Solutions For <span>Your Business</span> in Online Era
                 </h2>
               </div>
             </div>
@@ -513,7 +709,7 @@ const Index = () => {
       </section>
       {/* Advertise Area End */}
       {/* Newsletter Section Start */}
-      <section className="newsletter-video-section">
+      {/* <section className="newsletter-video-section">
         <div className="container-fluid">
           <div className="row align-items-center">
             <div className="col-xl-10">
@@ -610,7 +806,7 @@ const Index = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       {/* Newsletter Section End */}
       {/* Blog Section Start */}
       <section className="blog-section pt-120 rpt-90 pb-100 rpb-70">
