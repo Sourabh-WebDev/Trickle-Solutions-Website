@@ -454,7 +454,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
   Menus = () => (
     <ul className="navigation clearfix d-none d-lg-flex">
       <li className="dropdown ">
-        <a href="/index4">home</a>
+        <a href="/">home</a>
         {/* <ul>
           <Home />
         </ul>
