@@ -130,7 +130,7 @@ const FollowIcon = () => (
             <div className="footer-widget menu-widget">
               <h5 className="footer-title">Courses</h5>
               <ul>
-                <Courses />
+                <Services />
               </ul>
             </div>
           </div>
