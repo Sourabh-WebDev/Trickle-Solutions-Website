@@ -18,16 +18,17 @@ const About = () => {
               <div className="about-page-content wow fadeInLeft delay-0-2s">
                 <div className="section-title mb-30">
                   <span className="sub-title-two">About Learn Us</span>
-                  <h2>We’re Experience to Online Education Learning Center</h2>
+                  {/* <h2>We’re Experience to Online Education Learning Center</h2> */}
                 </div>
-                <p>
+                {/* <p>
                   Sit amet consectetur adipiscing eiusmo tempor indun ut labore
                   et dolore magna aliquaes suspendisse ultrice gravid commodo
                   viverra maecenas accusan
-                </p>
+                </p> */}
                 <b>
-                  Quis autem vel eum rerehenderit quivol uptate velit esse quam
-                  molestiae consequature
+                  Trickle Solutions are a technology driven and innovation oriented progressive
+                  company which provides a distinct platform that caters to a wide range of customers across the globe.
+
                 </b>
                 <div className="about-btns pt-25">
                   <Link href="/about">
@@ -47,7 +48,7 @@ const About = () => {
               <div className="about-page-middle rpt-55 rpb-30 wow fadeInRight delay-0-2s">
                 <img src="assets/images/about/about-page.png" alt="About" />
                 <div className="circle-content">
-                  <b>25</b>
+                  <b>10+</b>
                   <span>Years Of Experience</span>
                 </div>
               </div>
@@ -115,8 +116,7 @@ const About = () => {
                 </div>
                 <h4>Experts Minds</h4>
                 <p>
-                  Sed ut persiciatis omnis natus voluptate accsantie doloreue
-                  laudantium
+                Our Mission is to provide best and innovative IT and Software solutions to current industry and user needs.
                 </p>
                 <Link href="/about">
                   <a className="details-btn">
@@ -166,8 +166,7 @@ const About = () => {
                 </div>
                 <h4>Video Tutorials</h4>
                 <p>
-                  Sed ut persiciatis omnis natus voluptate accsantie doloreue
-                  laudantium
+                Trickle Solutions has a large pool of top IT professionals with a collective approach of a team as a whole. We mainly abide by the concept of synergy effect & focus on bringing out the best of our outputs for the satisfaction of our customers.
                 </p>
                 <Link href="/about">
                   <a className="details-btn">
@@ -414,11 +413,8 @@ const About = () => {
                   <h2>Exclusive Online Course Provide Categories</h2>
                 </div>
                 <p>
-                  On the other hand, we denounce with righteous indignation and
-                  dislike men who are so beguiled and demoralized by the charms
-                  of pleasure of the moment, so blinded by desire, that they
-                  cannot foresee the pain and trouble that are bound to ensue
-                  and equal blame belongs
+                  Team Trickle Solutions  is a focused, dynamic and  progressive group, providing customers with value added products,
+                  services and innovative solution. The group has collaborated with global technology leaders & has 10 associate partners.
                 </p>
                 <div className="why-learn-feature pt-30">
                   <div className="row">
@@ -432,8 +428,8 @@ const About = () => {
                         </div>
                         <h4>Expert Advisors</h4>
                         <p>
-                          Accutium doloremque lauda totarem aperiam eaque quaeo
-                          inventore veritatis quase
+                          Team Trickle Solutions  is a focused, dynamic and  progressive group, providing customers with value added products,
+                          services and innovative solution. The group has collaborated with global technology leaders & has 10 associate partners.
                         </p>
                         <Link href="/about">
                           <a className="read-more color-two">
@@ -452,8 +448,9 @@ const About = () => {
                         </div>
                         <h4>Popular Courses</h4>
                         <p>
-                          Quis autem vel eureh enderit voluptate velit esse
-                          nihlestiae consuatur veillum dolore
+                          Team Trickle Solutions  is a focused, dynamic and  progressive group,
+                          providing customers with value added products, services and innovative solution.
+                          The group has collaborated with global technology leaders & has 10 associate partners.
                         </p>
                         <Link href="/about">
                           <a className="read-more color-two">
@@ -488,13 +485,11 @@ const About = () => {
               </div>
               <div className="testimonial-content-two">
                 <div className="designation">
-                  <h3>Justin C. Swanson</h3>
+                  <h3>M.L.A</h3>
                   <span>Business Manager</span>
                 </div>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremq udantium totam rem aperiam eaque quae
-                  abillo inventore veritatis et quasi architecto beatae
+                Trickle Solutions has a large pool of top IT professionals with a collective approach of a team as a whole. We mainly abide by the concept of synergy effect & focus on bringing out the best of our outputs for the satisfaction of our customers.
                 </p>
                 <div className="ratting">
                   <i className="fas fa-star" />
@@ -518,9 +513,7 @@ const About = () => {
                   <span>Business Manager</span>
                 </div>
                 <p>
-                  Aperiam eaque quae abillo inventore veritatis et quasi
-                  architecto beatae Sed ut perspiciatis unde omnis iste natus
-                  error sit voluptatem accusantium doloremq udantium totam rem
+                Trickle Solutions has the ability to provide you any type of Internet service and solutions that you need. Whether you need an attractive website design or complex multi-tier internet system development, custom programming or web based promotions using latest technologies and industry trends, Trickle Solutions Technologies has the required experience and expertise to do it all at competitive prices with shorter time span.
                 </p>
                 <div className="ratting">
                   <i className="fas fa-star" />
@@ -544,9 +537,7 @@ const About = () => {
                   <span>Business Manager</span>
                 </div>
                 <p>
-                  Voluptatem accusantium doloremq udantium totam rem Sed ut
-                  perspiciatis unde omnis iste natus error sit aperiam eaque
-                  quae abillo inventore veritatis et quasi architecto beatae
+                Trickle Solutions has a large pool of top IT professionals with a collective approach of a team as a whole. We mainly abide by the concept of synergy effect & focus on bringing out the best of our outputs for the satisfaction of our customers.
                 </p>
                 <div className="ratting">
                   <i className="fas fa-star" />

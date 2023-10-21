@@ -149,8 +149,8 @@ const FollowIcon = () => (
                   <h5 className="footer-title">Get In Touch</h5>
                   <ul>
                     <li>
-                      <i className="fas fa-map-marker-alt" /> 55 Main Street,
-                      2nd Block, New York
+                      <i className="fas fa-map-marker-alt" /> Ravi Complex, Sultanpur Road,
+                  Lucknow, 206001
                     </li>
                     <li>
                       <i className="far fa-envelope" />{" "}
@@ -161,8 +161,8 @@ const FollowIcon = () => (
                       <a href="callto:+0123456789">+012 (345) 67 89</a>
                     </li>
                     <li>
-                      <i className="far fa-clock" /> Sunday - Friday,
-                      <br /> 08 am - 05 pm
+                      <i className="far fa-clock" /> Monday - Friday,
+                      <br /> 10 am - 06 pm
                     </li>
                   </ul>
                 </div>
@@ -297,7 +297,7 @@ const FollowIcon = () => (
               <ul>
                 <li>
                   <i className="fas fa-map-marker-alt" /> Ravi Complex, Sultanpur Road,
-                  Lucknow
+                  Lucknow, 206001
                 </li>
                 <li>
                   <i className="far fa-envelope" />{" "}
@@ -308,8 +308,8 @@ const FollowIcon = () => (
                   <a href="callto:+0123456789">+012 (345) 67 89</a>
                 </li>
                 <li>
-                  <i className="far fa-clock" /> Sunday - Friday,
-                  <br /> 08 am - 05 pm
+                  <i className="far fa-clock" /> Monday - Friday,
+                  <br /> 10 am - 06 pm
                 </li>
               </ul>
             </div>

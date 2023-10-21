@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Fragment, useEffect, useState } from "react";
 import { sidebarOnclick, stickyNav } from "../utils";
-import { Blog, Courses, Home, Pages, Services } from "./Menu";
+import { Blog, Services } from "./Menu";
 import MobileHeader from "./MobileHeader";
 
 const Header = ({ header }) => {
@@ -229,18 +229,18 @@ const Header1 = ({ navToggle, setNavToggle }) => (
       <div className="header-top bg-light-blue text-white">
         <div className="container-fluid">
           <div className="top-inner">
-            <div className="top-left">
+            <div className="top-left  ">
               <p>
-                <i className="far fa-clock" /> <b>Working Hours</b> : Manday -
-                Friday, 08am - 05pm
+                <i className="far fa-clock" /> <b>Working Hours</b> : Monday -
+                Friday, 10am - 06pm
               </p>
               <p>
                 <i className="fas fa-phone" /> <b>Hotline</b> :{" "}
-                <a href="callto:+012(345)6789">+012 (345) 67 89</a>
+                <a href="callto:+0522(345)6789"> +91 7290900835</a>
               </p>
             </div>
             <div className="top-right d-flex align-items-center">
-              <div className="social-style-two">
+              {/* <div className="social-style-two">
                 <Link href="/contact">
                   <i className="fab fa-twitter" />
                 </Link>
@@ -253,8 +253,8 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                 <Link href="/contact">
                   <i className="fab fa-pinterest-p" />
                 </Link>
-              </div>
-              <ul className="top-menu">
+              </div> */}
+              {/* <ul className="top-menu">
                 <li>
                   <Link href="/about">Setting &amp; Privacy</Link>
                 </li>
@@ -264,7 +264,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                 <li>
                   <Link href="/about">About</Link>
                 </li>
-              </ul>
+              </ul> */}
             </div>
           </div>
         </div>
@@ -334,7 +334,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                     English
                   </li>
                   <li data-value="Chinese" className="option">
-                    Bangla
+                    Hindi
                   </li>
                   <li data-value="Arabic" className="option">
                     Arabic
@@ -367,20 +367,21 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                 <div className="logo">
                   <Link href="/">
                     <a>
-                      <img
-                        src="assets/images/logos/logo.png"
-                        alt="Logo"
-                        title="Logo"
-                      />
+                    <img
+                      height={120}
+                      src="assets/images/logos/TS-LOGOBGLESS.png"
+                      alt="Logo"
+                      title="Logo"
+                    />
                     </a>
                   </Link>
                 </div>
-                <select name="select-languages" id="select-languages">
+                {/* <select name="select-languages" id="select-languages">
                   <option value="English">Eng</option>
                   <option value="Spanish">Spa</option>
                   <option value="Chinese">Chi</option>
                   <option value="Arabic">Ara</option>
-                </select>
+                </select> */}
               </div>
               <div className="nav-outer clearfix">
                 {/* Main Menu */}
@@ -500,13 +501,13 @@ const Header1 = ({ navToggle, setNavToggle }) => (
     <div className="header-top bg-light-blue text-white">
       <div className="container-fluid">
         <div className="top-inner">
-          <div className="top-left">
+          <div className="top-left ">
             <p>
               <i className="far fa-clock" /> <b>Working Hours</b> : Manday -
-              Friday, 08am - 05pm
+              Friday, 10am - 06pm
             </p>
           </div>
-          <div className="top-right d-flex align-items-center">
+          {/* <div className="top-right d-flex align-items-center">
             <div className="social-style-two">
               <Link href="/contact">
                 <a>
@@ -546,7 +547,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                 </Link>
               </li>
             </ul>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
