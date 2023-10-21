@@ -38,19 +38,19 @@ export const Courses = () => (
 export const Services = () => (
   <Fragment>
     <li>
-      <Link href="/course-grid">Website Designing</Link>
+      <Link href="/course-details">Website Designing</Link>
     </li>
     <li>
-      <Link href="/course-grid">Website Development</Link>
+      <Link href="/course-details">Website Development</Link>
     </li>
     <li>
       <Link href="/course-details">Web Hosting</Link>
     </li>
     <li>
-      <Link href="/course-list">App Development</Link>
+      <Link href="/course-details">App Development</Link>
     </li>
     <li>
-      <Link href="/course-timeline">Digital Marketing</Link>
+      <Link href="/digital-Markrting">Digital Marketing</Link>
     </li>
     <li>
       <Link href="/course-details">Graphic Designing</Link>

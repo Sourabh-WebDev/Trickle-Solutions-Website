@@ -226,7 +226,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
   Header4 = ({ navToggle, setNavToggle }) => (
     <header className="main-header header-four">
       {/* Header-Top */}
-      <div className="header-top bg-light-blue text-white">
+      {/* <div className="header-top bg-light-blue text-white">
         <div className="container-fluid">
           <div className="top-inner">
             <div className="top-left  ">
@@ -240,7 +240,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
               </p>
             </div>
             <div className="top-right d-flex align-items-center">
-              {/* <div className="social-style-two">
+              <div className="social-style-two">
                 <Link href="/contact">
                   <i className="fab fa-twitter" />
                 </Link>
@@ -253,8 +253,8 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                 <Link href="/contact">
                   <i className="fab fa-pinterest-p" />
                 </Link>
-              </div> */}
-              {/* <ul className="top-menu">
+              </div>
+              <ul className="top-menu">
                 <li>
                   <Link href="/about">Setting &amp; Privacy</Link>
                 </li>
@@ -264,11 +264,11 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                 <li>
                   <Link href="/about">About</Link>
                 </li>
-              </ul> */}
+              </ul>
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       {/* Header-Upper */}
       <div className="header-upper">
         <div className="container-fluid clearfix">
