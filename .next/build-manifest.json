@@ -30,10 +30,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/course-details.js"
     ],
-    "/digital-Markrting": [
+    "/website-development": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/digital-Markrting.js"
+      "static/chunks/pages/website-development.js"
     ]
   },
   "ampFirstPages": []

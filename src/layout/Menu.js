@@ -37,25 +37,29 @@ export const Courses = () => (
 
 export const Services = () => (
   <Fragment>
+
     <li>
-      <Link href="/course-details">Website Designing</Link>
+      <Link href="/website-development">Website Development</Link>
     </li>
-    <li>
-      <Link href="/course-details">Website Development</Link>
-    </li>
-    <li>
-      <Link href="/course-details">Web Hosting</Link>
-    </li>
+
     <li>
       <Link href="/course-details">App Development</Link>
     </li>
+
     <li>
       <Link href="/digital-Markrting">Digital Marketing</Link>
     </li>
+
+    <li>
+      <Link href="/course-details">Web Hosting</Link>
+    </li>
+   
     <li>
       <Link href="/course-details">Graphic Designing</Link>
     </li>
+
   </Fragment>
+  
 );
 
 export const Pages = () => (

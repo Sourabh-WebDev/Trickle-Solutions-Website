@@ -158,7 +158,7 @@ const FollowIcon = () => (
                     </li>
                     <li>
                       <i className="fas fa-phone" />{" "}
-                      <a href="callto:+0123456789">+012 (345) 67 89</a>
+                      <a href="callto:+0123456789">7290900835</a>
                     </li>
                     <li>
                       <i className="far fa-clock" /> Monday - Friday,
@@ -305,7 +305,7 @@ const FollowIcon = () => (
                 </li>
                 <li>
                   <i className="fas fa-phone" />{" "}
-                  <a href="callto:+0123456789">+012 (345) 67 89</a>
+                  <a href="callto:7290900835">7290900835</a>
                 </li>
                 <li>
                   <i className="far fa-clock" /> Monday - Friday,
