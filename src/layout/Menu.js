@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Fragment } from "react";
 
 export const Home = () => (
+  
   <Fragment>
     <li>
       <Link href="/">Home One</Link>

@@ -33,7 +33,7 @@ const websiteDesigning= () => {
      
   ];
 
-
+  
   return (
       <Layout>
           <PageBanner pageName={"Website Designing"} />
@@ -456,14 +456,13 @@ const websiteDesigning= () => {
                                   ))
                               }
                               <li>
-                                  Keywords Research.
+                                  Free Maintenance.
                               </li>
                               <li>
-                                  Front-End Performance Checklist 2021 (PDF, Apple Pages, MS
-                                  Word)
+                              No Cost For Webspace & Hosting .
                               </li>
                               <li>
-                                  A Smashing Guide To The World Of Search Engine Optimization
+                              Cost-Effective Option To Build A Website With Less Pages.
                               </li>
                           </ul>
 

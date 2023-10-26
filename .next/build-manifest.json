@@ -25,20 +25,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/contact": [
+    "/app-development": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/contact.js"
+      "static/chunks/pages/app-development.js"
     ],
-    "/graphic-designing": [
+    "/website-designing": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/graphic-designing.js"
-    ],
-    "/web-hosting": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/web-hosting.js"
+      "static/chunks/pages/website-designing.js"
     ]
   },
   "ampFirstPages": []
