@@ -29,8 +29,8 @@ const digitalMarkrting = () => {
         'Merchant Center Account creation for E-commerce',
         'Uploading of shopping feed in the Merchant Center account',
         'Shopping Campaign',
-        'Dynamic Re-marketing campaign',
-        'Keywords Research'
+        'Dynamic Re-marketing campaign'
+       
     ];
 
 

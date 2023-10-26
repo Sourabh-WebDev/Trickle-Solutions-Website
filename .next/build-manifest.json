@@ -25,15 +25,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/course-details": [
+    "/app-development": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/course-details.js"
+      "static/chunks/pages/app-development.js"
     ],
-    "/digital-Markrting": [
+    "/website-designing": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/digital-Markrting.js"
+      "static/chunks/pages/website-designing.js"
     ]
   },
   "ampFirstPages": []
