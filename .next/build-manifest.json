@@ -25,15 +25,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/course-details": [
+    "/contact": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/course-details.js"
+      "static/chunks/pages/contact.js"
     ],
-    "/website-development": [
+    "/website-designing": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/website-development.js"
+      "static/chunks/pages/website-designing.js"
     ]
   },
   "ampFirstPages": []

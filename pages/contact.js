@@ -23,7 +23,7 @@ const ContactUs = () => {
                     <div className="contact-info-box">
                       <i className="fas fa-map-marker-alt" />
                       <h4>Locations</h4>
-                      <span>55 Main Street, 2nd Block, New York</span>
+                      <span>Ravi Complex Khurdhi Market Lucknow 226001</span>
                     </div>
                   </div>
                   <div className="col-md-4 col-sm-6">
@@ -42,9 +42,9 @@ const ContactUs = () => {
                       <i className="fas fa-phone-volume" />
                       <h4>Hotlines</h4>
                       <span>
-                        <a href="callto:+896(321)4600">+896 (321) 46 00</a>
+                        <a href="callto:+896(321)4600">7290900835</a>
                         <br />
-                        <a href="callto:+012(345)678">+012 (345) 678</a>
+                        <a href="callto:+012(345)678">+91 7290900835</a>
                       </span>
                     </div>
                   </div>
