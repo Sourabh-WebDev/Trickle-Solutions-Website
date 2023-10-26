@@ -30,10 +30,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/contact.js"
     ],
-    "/website-designing": [
+    "/graphic-designing": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/website-designing.js"
+      "static/chunks/pages/graphic-designing.js"
+    ],
+    "/web-hosting": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/web-hosting.js"
     ]
   },
   "ampFirstPages": []
