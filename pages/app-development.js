@@ -54,7 +54,7 @@ const appdevelopment = () => {
                   </ul> */}
                   <div className="image mb-35">
   
-                    <img src="https://www.spiderindia.com/img/app8.png " alt="img" />
+                    <img src="https://omsoftsolution.com//wp-content/uploads/2023/06/app-development-1.gif " alt="img" />
   
                     {/* <img
                       src="assets/images/coachs/course-details.jpg"

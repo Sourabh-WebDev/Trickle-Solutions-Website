@@ -74,8 +74,8 @@ const websiteDesigning= () => {
                               </ul> */}
                               <div className="image mb-35">
                                   <img
-                                      src="https://www.ujudebug.com/wp-content/uploads/2019/11/Web-Design-Course-Fees-and-Duration-In-guwahati.jpg"
-                                      alt="Course Details"
+                                      src="https://omsoftsolution.com//wp-content/uploads/2023/03/coding-boy.gif"
+                                      alt="Coding img"
                                   />
                               </div>
                               <h3>Hire Dedicated Web Designer:-</h3>
