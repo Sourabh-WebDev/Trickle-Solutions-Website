@@ -54,7 +54,7 @@ const ContactUs = () => {
             <div className="col-lg-4">
               <div className="contact-page-image wow fadeInUp delay-0-4s">
                 <img
-                  src="assets/images/contact/contact-page.png"
+                  src="https://omsoftsolution.com//wp-content/uploads/2023/07/contact.gif"
                   alt="Contact Page"
                 />
               </div>
