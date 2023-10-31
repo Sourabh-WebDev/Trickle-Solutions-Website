@@ -23,7 +23,7 @@ const digitalMarkrting = () => {
         'Increase keyword quality score (improve landing page experience, ctr and ad relevancy)',
         'Improve the keywords performance using search term report (adding keywords and -ve keywords)',
         'Usage of conversion optimizer after 15 conversions in the account',
-        'Weekly campaign optimization to maintain leads and cost per lead',
+        'SEO yields even more striking results when it is prudently blended with a variety of marketing tools like social media, content marketing, PR & branding and to name a few. The experts at this ',
         'Re-marketing / Display campaign creation',
         'GSP Campaign Creation',
         'Merchant Center Account creation for E-commerce',
@@ -36,7 +36,7 @@ const digitalMarkrting = () => {
 
     return (
         <Layout>
-            <PageBanner pageName={"Digital Marketing"} />
+            <PageBanner pageName={"Digital Marketing"} img={"https://as1.ftcdn.net/v2/jpg/03/17/83/00/1000_F_317830022_t2c7ZhvWlp68eumsnI4q4Bnw267bPwB9.jpg"} />
             <section className="course-details-area pt-130 rpt-100">
                 <div className="container">
                     <div className="row large-gap">

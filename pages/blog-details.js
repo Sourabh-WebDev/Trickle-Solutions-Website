@@ -4,7 +4,7 @@ import Layout from "../src/layout/Layout";
 const BlogDetails = () => {
   return (
     <Layout>
-      <PageBanner pageName={"Blog Details"} />
+      <PageBanner pageName={"Blog Details"} img={" https://www.appliedart.com/assets/images/blog/_newsFeatured/blogging-SMB.png"}/>
       <section className="blog-details-area py-130 rpy-100">
         <div className="container">
           <div className="row">

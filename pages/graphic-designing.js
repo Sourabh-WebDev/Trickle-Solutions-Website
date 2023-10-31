@@ -36,7 +36,7 @@ const graphicdesigning = () => {
 
   return (
       <Layout>
-          <PageBanner pageName={"Graphic Designing"} />
+          <PageBanner pageName={"Graphic Designing"}img={" https://www.etudemy.com/wp-content/uploads/2021/09/Graphic-Designing-Courses-in-perinthalmannamalappuram.jpg"}/>
           <section className="course-details-area pt-130 rpt-100">
               <div className="container">
                   <div className="row large-gap">

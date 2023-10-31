@@ -37,7 +37,7 @@ const webhosting = () => {
 
     return (
         <Layout>
-            <PageBanner pageName={"Web Hosting"} />
+            <PageBanner pageName={"Web Hosting"} img={"https://kinsta.com/wp-content/uploads/2021/11/what-is-web-hosting-1-1024x512.jpg "}/>
             <section className="course-details-area pt-130 rpt-100">
                 <div className="container">
                     <div className="row large-gap">
@@ -81,6 +81,7 @@ const webhosting = () => {
                                 </div>
                                 <h2>Web Hosting: For Hosting Your Domain In The World of Web</h2>
                                 <p>
+                                You all can subscribe to our reseller hosting packages even for 1-month term. Therefore, you are not required to sign up for a long time. You can also block your funds till the time you are sure that the service and support provided to you is of supreme quality.
                                 The first and foremost step for a company that wishes to have a web presence is to sign up with a Web Hosting company.
                                 It is a mode through which companies or individuals launch their website on www i.e. World Wide Web. With a huge data storage, 24x7 security monitoring, and easy-to-use control panels, WeblinkIndia.Net offers the best web hosting services.
                                  Our company is not just counted among the most trusted web hosting companies but also ranked among the top 10 web hosting providers. 
