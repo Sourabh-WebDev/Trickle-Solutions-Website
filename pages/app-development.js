@@ -15,7 +15,7 @@ const appdevelopment = () => {
   
     return (
       <Layout>
-        <PageBanner pageName={"App Development"} />
+        <PageBanner pageName={"App Development"}  img={"https://img.freepik.com/premium-photo/designers-create-user-interface-mobile-phones_8119-2674.jpg?w=740"} />
         <section className="course-details-area pt-130 rpt-100">
           <div className="container">
             <div className="row large-gap">
@@ -340,7 +340,6 @@ const appdevelopment = () => {
                     An android app with killer UI/UX and powerful functionality is the tool that can effectively target the growing mobile user base. To stand out from the 3.8 million android app, one needs to consult an android developer that brings together years of experience, expertise and a perfect blend of innovation and technology to the table for android application development. WeblinkIndia, a top android app development company, promises all this and much more with its android app development services. Our years of experience and expertise in the field of app development enable us to bring your app idea to life.
                     Android software development is the process by which new applications are created for devices running the Android operating system. Google states that “Android apps can be written using Kotlin, Java, and C++ languages” using the Android software development kit, while using other languages is also possible.
                   </p>
-  
                   <ul className="list-style-two mb-45">
                     <li> Mobile Apps</li>
                     <li>Mobile application development</li>
@@ -475,7 +474,7 @@ const appdevelopment = () => {
                       A Smashing Guide To The World Of Search Engine Optimization
                     </li>
                   </ul>
-  
+
                   <ul className="list-style-two mb-45">
                     <li>Any Job Holders, Students</li>
                     <li>Corporate Trainer</li>

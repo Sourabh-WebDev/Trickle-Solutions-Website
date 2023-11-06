@@ -3,7 +3,7 @@ import Layout from "../src/layout/Layout";
 const ContactUs = () => {
   return (
     <Layout>
-      <PageBanner pageName={"Contact Us"} />
+      <PageBanner pageName={"Contact Us"} img={"https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"} />
       <section className="contact-info-area rel z-1 py-130 rpt-90 rpb-100">
         <div className="container">
           <div className="row align-items-center">
@@ -31,7 +31,7 @@ const ContactUs = () => {
                       <i className="far fa-envelope" />
                       <h4>Email Us</h4>
                       <span>
-                        <a href="mailto:support@gmail.com">support@gmail.com</a>
+                        <a href="mailto:support@gmail.com">info@gmail.com</a>
                         <br />
                         <a href="mailto:infocoach.net">infocoach.net</a>
                       </span>
@@ -43,8 +43,6 @@ const ContactUs = () => {
                       <h4>Hotlines</h4>
                       <span>
                         <a href="callto:+896(321)4600">7290900835</a>
-                        <br />
-                        <a href="callto:+012(345)678">+91 7290900835</a>
                       </span>
                     </div>
                   </div>

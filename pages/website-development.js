@@ -28,13 +28,13 @@ const websiteDevelopment = () => {
         'Merchant Center Account creation for E-commerce',
         'Uploading of shopping feed in the Merchant Center account',
         'Dynamic Re-marketing campaign'
-       
+
     ];
 
 
     return (
         <Layout>
-            <PageBanner pageName={"Website Development"} />
+            <PageBanner pageName={"Website Development"} img={"https://lform.com/cms/resources/media/2021/01/custom-web-development-app-1184x694.jpg"} />
             <section className="course-details-area pt-130 rpt-100">
                 <div className="container">
                     <div className="row large-gap">
@@ -77,10 +77,10 @@ const websiteDevelopment = () => {
                                     />
                                 </div>
                                 <p>
-                                  static website is one that has web pages stored on the server in the format that is sent to a client web browser.
-                                  It is primarily coded in Hypertext Markup Language (HTML); Cascading Style Sheets (CSS) are used to control appearance beyond basic HTML. 
-                                  Images are commonly used to effect the desired appearance and as part of the main content. Audio or video might also be considered “static” content if it plays automatically or is generally non-interactive. 
-                                  This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus.
+                                    static website is one that has web pages stored on the server in the format that is sent to a client web browser.
+                                    It is primarily coded in Hypertext Markup Language (HTML); Cascading Style Sheets (CSS) are used to control appearance beyond basic HTML.
+                                    Images are commonly used to effect the desired appearance and as part of the main content. Audio or video might also be considered “static” content if it plays automatically or is generally non-interactive.
+                                    This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus.
 
                                 </p>
                                 {/* <h3 className="mt-40">Requirements</h3>
@@ -455,15 +455,15 @@ const websiteDevelopment = () => {
                                     ))
                                 }
                                 <li>
-                                Text editors, such as Notepad or TextEdit, where content and HTML markup are manipulated directly within the editor program
+                                    Text editors, such as Notepad or TextEdit, where content and HTML markup are manipulated directly within the editor program
 
                                 </li>
                                 <li>
-                                WYSIWYG offline editors, such as Microsoft FrontPage and Adobe Dreamweaver (previously Macromedia Dreamweaver), with which the site is edited using a GUI and the final HTML markup is generated automatically by the editor software
+                                    WYSIWYG offline editors, such as Microsoft FrontPage and Adobe Dreamweaver (previously Macromedia Dreamweaver), with which the site is edited using a GUI and the final HTML markup is generated automatically by the editor software
 
                                 </li>
                                 <li>
-                                WYSIWYG online editors which create media rich online presentation like web pages, widgets, intro, blogs, and other documents.
+                                    WYSIWYG online editors which create media rich online presentation like web pages, widgets, intro, blogs, and other documents.
                                 </li>
                             </ul>
 

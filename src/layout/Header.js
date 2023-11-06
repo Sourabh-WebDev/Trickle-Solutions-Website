@@ -45,12 +45,12 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                   </a>
                 </Link>
               </div>
-              <select name="select-languages" id="select-languages">
+              {/* <select name="select-languages" id="select-languages">
                 <option value="English">Eng</option>
                 <option value="Spanish">Spa</option>
                 <option value="Chinese">Chi</option>
                 <option value="Arabic">Ara</option>
-              </select>
+              </select> */}
             </div>
             <div className="nav-outer clearfix">
               {/* Main Menu */}
@@ -183,7 +183,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
               {/* Menu Button */}
               <div className="menu-btn-sidebar d-flex align-items-center">
                 <div className="nav-search">
-                  <button className="fa fa-search" />
+                  {/* <button className="fa fa-search" /> */}
                   <form
                     onSubmit={(e) => e.preventDefault()}
                     action="#"

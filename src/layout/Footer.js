@@ -67,7 +67,7 @@ const FollowIcon = () => (
   Resources = () => (
     <Fragment>
       <li>
-        <Link href="/contact">Community</Link>
+        <Link href="/contact">ERP Development</Link>
       </li>
       <li>
         <Link href="/contact">Support</Link>
@@ -128,7 +128,7 @@ const FollowIcon = () => (
           </div>
           <div className="col-lg-2 col-md-3 col-sm-4">
             <div className="footer-widget menu-widget">
-              <h5 className="footer-title">Courses</h5>
+              <h5 className="footer-title">Services</h5>
               <ul>
                 <Services />
               </ul>
@@ -154,11 +154,11 @@ const FollowIcon = () => (
                     </li>
                     <li>
                       <i className="far fa-envelope" />{" "}
-                      <a href="mailto:support@gmail.com">support@gmail.com</a>
+                      <a href="mailto:support@gmail.com">info@tricklsolution.com</a>
                     </li>
                     <li>
                       <i className="fas fa-phone" />{" "}
-                      <a href="callto:+0123456789">7290900835</a>
+                      <a href="callto:+91 7290900835">7290900835</a>
                     </li>
                     <li>
                       <i className="far fa-clock" /> Monday - Friday,
@@ -170,7 +170,7 @@ const FollowIcon = () => (
               <div className="col-sm-6">
                 <div className="footer-widget video-widget">
                   <p>Quis autem vel eum iure repre enderit voluptate</p>
-                  <div className="video-widget overlay my-20">
+                  {/* <div className="video-widget overlay my-20">
                     <img src="assets/images/footer/video.jpg" alt="Video" />
                     <a
                       href="https://www.youtube.com/watch?v=9Y7ma241N8k"
@@ -178,7 +178,7 @@ const FollowIcon = () => (
                     >
                       <i className="fas fa-play" />
                     </a>
-                  </div>
+                  </div> */}
                   <Link href="/about">
                     <a className="read-more">
                       view more <i className="fas fa-arrow-right" />
@@ -301,7 +301,7 @@ const FollowIcon = () => (
                 </li>
                 <li>
                   <i className="far fa-envelope" />{" "}
-                  <a href="mailto:support@gmail.com">support@gmail.com</a>
+                  <a href="mailto:support@gmail.com">info@gmail.com</a>
                 </li>
                 <li>
                   <i className="fas fa-phone" />{" "}
