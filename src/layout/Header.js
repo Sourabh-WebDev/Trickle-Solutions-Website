@@ -56,7 +56,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
               {/* Main Menu */}
               <nav className="main-menu navbar-expand-lg">
                 <div className="navbar-header">
-                  <div className="mobile-logo bg-green br-10 p-15">
+                  {/* <div className="mobile-logo bg-green br-10 p-15">
                     <Link href="/">
                       <a>
                         <img
@@ -66,7 +66,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                         />
                       </a>
                     </Link>
-                  </div>
+                  </div> */}
                   {/* Toggle Button */}
                   <button
                     type="button"
@@ -147,7 +147,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                 {/* Main Menu */}
                 <nav className="main-menu navbar-expand-lg">
                   <div className="navbar-header">
-                    <div className="mobile-logo">
+                    {/* <div className="mobile-logo">
                       <Link href="/">
                         <a>
                           <img
@@ -157,7 +157,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                           />
                         </a>
                       </Link>
-                    </div>
+                    </div> */}
                     {/* Toggle Button */}
                     <button
                       type="button"
@@ -291,7 +291,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
               {/* Main Menu */}
               <nav className="main-menu navbar-expand-lg">
                 <div className="navbar-header">
-                  <div className="mobile-logo">
+                  {/* <div className="mobile-logo">
                     <Link href="/">
                       <a>
                         <img
@@ -301,7 +301,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                         />
                       </a>
                     </Link>
-                  </div>
+                  </div> */}
                   {/* Toggle Button */}
                   <button
                     type="button"
@@ -387,17 +387,18 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                 {/* Main Menu */}
                 <nav className="main-menu navbar-expand-lg">
                   <div className="navbar-header">
-                    <div className="mobile-logo bg-green br-10 p-15">
-                      <Link href="/">
-                        <a>
-                          <img
-                            src="assets/images/logos/logo.png"
-                            alt="Logo"
-                            title="Logo"
-                          />
-                        </a>
-                      </Link>
-                    </div>
+                  <div className="logo">
+                  <Link href="/">
+                    <a>
+                    <img
+                      height={120}
+                      src="assets/images/logos/TS-LOGOBGLESS.png"
+                      alt="Logo"
+                      title="Logo"
+                    />
+                    </a>
+                  </Link>
+                </div>
                     {/* Toggle Button */}
                     <button
                       type="button"

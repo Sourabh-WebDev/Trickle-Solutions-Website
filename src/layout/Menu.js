@@ -4,35 +4,35 @@ import { Fragment } from "react";
 export const Home = () => (
   
   <Fragment>
-    <li>
+    {/* <li>
       <Link href="/">Home One</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/index2">Home Two</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/index3">Home Three</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/index4">Home Four</Link>
-    </li>
+    </li> */}
   </Fragment>
 );
 
 export const Courses = () => (
   <Fragment>
-    <li>
+    {/* <li>
       <Link href="/course-grid">course grid</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/course-list">course list</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/course-timeline">course timeline</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/course-details">course details</Link>
-    </li>
+    </li> */}
   </Fragment>
 );
 
@@ -69,39 +69,39 @@ export const Services = () => (
 
 export const Pages = () => (
   <Fragment>
-    <li>
+    {/* <li>
       <Link href="/faqs">{`FAQ's`}</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/shop">Shop Page</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/product-details">product details</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/checkout">checkout</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/cart">cart page</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/instructors">all instructors</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/become-instructor">become instructor</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/gallery">gallery</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/pricing">pricing plan</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/contact">contact us</Link>
-    </li>
-    <li>
+    </li> */}
+    {/* <li>
       <Link href="/404">error Page</Link>
-    </li>
+    </li> */}
   </Fragment>
 );
 
