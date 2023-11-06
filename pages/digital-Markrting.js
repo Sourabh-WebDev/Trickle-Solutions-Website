@@ -79,11 +79,8 @@ const digitalMarkrting = () => {
                                     />
                                 </div>
                                 <p>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                                    accusantium doloremque laudantium totam rem aperiam, eaque
-                                    ipsa quae ab illo inventore veritatis et quasi architecto
-                                    beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
-                                    quia voluptas sit aspernatur autodit aut fugit sed quia
+                                Trickle Solutions are a technology driven and innovation oriented progressive
+                                 company which provides a distinct platform that caters to a wide range of customers across the globe.
                                     consequuntur magni dolores eos qui ratione voluptatem sequi
                                     nesciunt. Neque porro quisquam este qui dolorem ipsum quia
                                     dolor sit amet, consectetur, adipisci velit, sed quia non

@@ -33,10 +33,7 @@ const BlogDetails = () => {
                   Creating Online Environments That Work Well For Older Users
                 </h3>
                 <p>
-                  Sit amet consectetur adipiscing elit, sed do eiusmod tempor
-                  incididunt ut labore et dolore magna aliqua. Quis ipsum
-                  suspendisse ultrices gravida. Risus commodo viverra maecenas
-                  accumsan lacus vel facilisis ut aut reiciendis voluptatibus
+                Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                   maiores alias consequatu{" "}
                 </p>
                 <p>

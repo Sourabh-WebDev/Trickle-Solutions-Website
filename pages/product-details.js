@@ -80,8 +80,8 @@ const ProductDetails = () => {
                   <span className="price">59.58</span>
                 </div>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error silupt atem
-                  accusantium doloremque laudantium rem riams eaque quae abillo
+                Trickle Solutions are a technology driven and innovation oriented 
+                progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                   inventore quasi architecto beatae vitae dicta sunt explicabo.
                   Nemo enim psaml uptatem quia voluptas sit aspernatur aut odit
                   aut fugit sedes quia consequuntur magni dolores eos
