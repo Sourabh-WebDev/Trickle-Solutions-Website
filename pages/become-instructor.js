@@ -109,7 +109,6 @@ const BecomeAnInstructor = () => {
                     <h4>Decision Analysis</h4>
                     <p>
                     At Trickle Solutions we strictly follow a full life cycle development process from requirements definition and specification, architecture, process & commencement of the project & the Life cycle involves the complete process from the conceptual feasibility to Roll out of a project.
-
                     </p>
                   </div>
                 </div>
@@ -238,7 +237,6 @@ const BecomeAnInstructor = () => {
                       <h5>Start With Courses</h5>
                       <p>
                       Trickle Solutions possesses a boisterous man power having a perfect balance of experience & Expertise.
-
                       </p>
                     </div>
                   </li>

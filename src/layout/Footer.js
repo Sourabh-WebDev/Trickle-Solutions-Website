@@ -20,22 +20,22 @@ const Footer = ({ footer }) => {
 export default Footer;
 const FollowIcon = () => (
   <Fragment>
-    <Link href="/contact">
+    <Link to="/https://www.facebook.com/tricklesolutions">
       <a>
         <i className="fab fa-facebook-f" />
       </a>
     </Link>
-    <Link href="/contact">
+    <Link to="/https://www.twitter.com/tricklesolutions">
       <a>
         <i className="fab fa-twitter" />
       </a>
     </Link>
-    <Link href="/contact">
+    <Link to="/https://www.linkdin.com/tricklesolutions">
       <a>
         <i className="fab fa-linkedin-in" />
       </a>
     </Link>
-    <Link href="/contact">
+    <Link to="/https://www.youtube.com/tricklesolutions">
       <a>
         <i className="fab fa-youtube" />
       </a>
@@ -44,24 +44,24 @@ const FollowIcon = () => (
 ),
   Services = () => (
     <Fragment>
-     <li>
-      <Link href="/course-grid">Website Designing</Link>
-    </li>
-    <li>
-      <Link href="/course-grid">Website Development</Link>
-    </li>
-    <li>
-      <Link href="/course-details">Web Hosting</Link>
-    </li>
-    <li>
-      <Link href="/course-list">App Development</Link>
-    </li>
-    <li>
-      <Link href="/course-timeline">Digital Marketing</Link>
-    </li>
-    <li>
-      <Link href="/course-details">Graphic Designing</Link>
-    </li>
+      <li>
+        <Link href="/course-grid">Website Designing</Link>
+      </li>
+      <li>
+        <Link href="/course-grid">Website Development</Link>
+      </li>
+      <li>
+        <Link href="/course-details">Web Hosting</Link>
+      </li>
+      <li>
+        <Link href="/course-list">App Development</Link>
+      </li>
+      <li>
+        <Link href="/course-timeline">Digital Marketing</Link>
+      </li>
+      <li>
+        <Link href="/course-details">Graphic Designing</Link>
+      </li>
     </Fragment>
   ),
   Resources = () => (
@@ -111,14 +111,13 @@ const FollowIcon = () => (
   DefaultFooter = ({ scrollTop }) => (
     <footer className="main-footer bg-blue">
       <div className="container">
-        <Newsletters />
+        {/* <Newsletters /> */}
         <div className="row justify-content-between text-white pt-75">
           <div className="col-lg-3 col-sm-4">
             <div className="footer-widget about-widget">
               <h5 className="footer-title">About Us</h5>
               <p>
-                Sit amet consectetur adipiscin seeiusmod tempor incididunt ut
-                dolore magna aliqu asusp disse ultrices gravida commodo
+                Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
               </p>
               <h5 className="pt-5">Follow Us</h5>
               <div className="social-style-one">
@@ -150,7 +149,7 @@ const FollowIcon = () => (
                   <ul>
                     <li>
                       <i className="fas fa-map-marker-alt" /> Ravi Complex, Sultanpur Road,
-                  Lucknow, 206001
+                      Lucknow, 206001
                     </li>
                     <li>
                       <i className="far fa-envelope" />{" "}
@@ -267,17 +266,22 @@ const FollowIcon = () => (
         <div className="row large-gap justify-content-between pt-85">
           <div className="col-lg-3 col-sm-4">
             <div className="footer-widget about-widget">
-              <div className="footer-logo mb-25">
+              <h5 className="footer-title">About Us</h5>
+              {/* <div className="footer-logo mb-25">
                 <Link href="/">
                   <a>
                     <img src="assets/images/logos/logo-four.png" alt="Logo" />
                   </a>
                 </Link>
-              </div>
+              </div> */}
               <p>
-                Sit amet consectetur adipiscin seeiusmod tempor incididunt ut
-                dolore magna aliqu asusp{" "}
+                Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
               </p>
+              <Link href="/about">
+                    <a className="read-more">
+                      view more <i className="fas fa-arrow-right" />
+                    </a>
+                  </Link>
               <div className="social-style-one pt-10">
                 <FollowIcon />
               </div>
@@ -301,7 +305,7 @@ const FollowIcon = () => (
                 </li>
                 <li>
                   <i className="far fa-envelope" />{" "}
-                  <a href="mailto:support@gmail.com">info@gmail.com</a>
+                  <a href="mailto:support@gmail.com">info@tricklesolutions.com</a>
                 </li>
                 <li>
                   <i className="fas fa-phone" />{" "}

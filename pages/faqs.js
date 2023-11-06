@@ -159,6 +159,8 @@ const Faqs = () => {
                   <h2>Have Any Question On Minds ?</h2>
                 </div>
                 <p>
+                Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct
+                 platform that caters to a wide range of customers across the globe.
                   On the other hand we denounce with righteou indigntion and
                   dislike men who are so beguiled and drem the charms of
                   pleasure of the moment so blinded by desire

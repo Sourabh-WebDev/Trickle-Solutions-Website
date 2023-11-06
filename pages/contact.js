@@ -31,7 +31,7 @@ const ContactUs = () => {
                       <i className="far fa-envelope" />
                       <h4>Email Us</h4>
                       <span>
-                        <a href="mailto:support@gmail.com">info@gmail.com</a>
+                        <a href="mailto:support@tricklesolutions.com">info@tricklesolutions.com</a>
                         <br />
                         <a href="mailto:infocoach.net">infocoach.net</a>
                       </span>
@@ -42,7 +42,7 @@ const ContactUs = () => {
                       <i className="fas fa-phone-volume" />
                       <h4>Hotlines</h4>
                       <span>
-                        <a href="callto:+896(321)4600">7290900835</a>
+                        <a href="callto:+917290900835">7290900835</a>
                       </span>
                     </div>
                   </div>

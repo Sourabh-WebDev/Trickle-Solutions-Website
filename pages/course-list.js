@@ -144,7 +144,7 @@ const CourseList = () => {
                       </Link>
                       <h4>
                         <Link href="/course-details">
-                          How to Learn Web Development by php (Basic to Advance)
+                          How to Learn Web Development by React js (Basic to Advance)
                         </Link>
                       </h4>
                       <ul className="coach-footer">
