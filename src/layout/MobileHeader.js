@@ -31,8 +31,9 @@ const MobileHeader = () => {
       </li>
   
       <li className="dropdown">
-       <Link href= "./Contact">Contact-Us</Link>
+       <Link href= "./contact">Contact-Us</Link>
       </li>
+
       <li className="dropdown">
         <a href="#">blog</a>
         <ul style={activeLi("Blog")}>

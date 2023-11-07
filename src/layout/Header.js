@@ -45,12 +45,6 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                   </a>
                 </Link>
               </div>
-              {/* <select name="select-languages" id="select-languages">
-                <option value="English">Eng</option>
-                <option value="Spanish">Spa</option>
-                <option value="Chinese">Chi</option>
-                <option value="Arabic">Ara</option>
-              </select> */}
             </div>
             <div className="nav-outer clearfix">
               {/* Main Menu */}
@@ -67,6 +61,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                       </a>
                     </Link>
                   </div> */}
+
                   {/* Toggle Button */}
                   <button
                     type="button"
@@ -291,17 +286,18 @@ const Header1 = ({ navToggle, setNavToggle }) => (
               {/* Main Menu */}
               <nav className="main-menu navbar-expand-lg">
                 <div className="navbar-header">
-                  {/* <div className="mobile-logo">
+                  <div className="mobile-logo">
                     <Link href="/">
                       <a>
                         <img
-                          src="assets/images/logos/logo-three.png"
+                          src="assets/images/logos/TS-LOGOBGLESS.png"
                           alt="Logo"
                           title="Logo"
                         />
                       </a>
                     </Link>
-                  </div> */}
+                  </div>
+
                   {/* Toggle Button */}
                   <button
                     type="button"
