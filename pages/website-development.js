@@ -89,19 +89,20 @@ const websiteDevelopment = () => {
                                 </div>
 
                                 <p>  
-                                MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based.
+                                MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based .
+                                ReactJS is a JS library that allows the development of user interfaces for mobile apps and SPAs. It allows you to code JavaScript and develop UI components. The JS library uses virtual DOM for doing everything.
                                 <ul className="list-style-two mb-45"> 
                                     <li>
-                                    Faster development
+                                    Faster development.
                                     </li>
                                     <li>
-                                    Native interface creation
+                                    Native interface creation.
                                     </li>
                                     <li>
-                                    Cross-platform, meaning you can use it for iOS and Android
+                                    Cross-platform, meaning you can use it for iOS and Android.
                                     </li>
                                     <li>
-                                    Easy testing
+                                    Easy testing.
                                     </li>
                                 </ul>
                                 </p>
