@@ -83,6 +83,29 @@ const websiteDevelopment = () => {
                                     This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus.
 
                                 </p>
+
+                                <div>
+                                    <h2>Mern Development</h2>
+                                </div>
+
+                                <p>  
+                                MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based .
+                                ReactJS is a JS library that allows the development of user interfaces for mobile apps and SPAs. It allows you to code JavaScript and develop UI components. The JS library uses virtual DOM for doing everything.
+                                <ul className="list-style-two mb-45"> 
+                                    <li>
+                                    Faster development.
+                                    </li>
+                                    <li>
+                                    Native interface creation.
+                                    </li>
+                                    <li>
+                                    Cross-platform, meaning you can use it for iOS and Android.
+                                    </li>
+                                    <li>
+                                    Easy testing.
+                                    </li>
+                                </ul>
+                                </p>
                                 {/* <h3 className="mt-40">Requirements</h3>
                                 <ul className="list-style-two mb-45">
                                     <li>
@@ -466,6 +489,13 @@ const websiteDevelopment = () => {
                                     WYSIWYG online editors which create media rich online presentation like web pages, widgets, intro, blogs, and other documents.
                                 </li>
                             </ul>
+
+                            <div className="image mb-35">
+                                    <img
+                                        src="https://www.bigscal.com/wp-content/uploads/2022/09/Features-of-Mern-stack-development-services-You-Should-Know.png"
+                                        alt="Course Details"
+                                    />
+                                </div>
 
                             {/* <div className="course-sidebar rmt-75">
                                 <div className="widget widget-course-details wow fadeInUp delay-0-2s">

@@ -90,6 +90,7 @@ const BlogDetails = () => {
                     <div className="content">
                       <h4>Rasalina Wilimson</h4>
                       <p>
+                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         At vero eos et accusamus et iusto odio dignissimos
                         ducimus qui blanditiis praesentium voluptatum deleniti
                         atqu corruptie quos dolores et quas molestias excepturi
@@ -175,9 +176,7 @@ const BlogDetails = () => {
                             <span className="comment-date">25 Feb 2022</span>
                           </div>
                           <p>
-                            Quis autem vel eum iure reprehenderit quin voluptate
-                            velit esseeso quam nihile molestiae consequatur
-                            veillum quolore
+                          Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                           </p>
                           <a href="#" className="reply-link">
                             Reply <i className="fas fa-long-arrow-alt-right" />
