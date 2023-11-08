@@ -5,6 +5,7 @@ const Sidebar = () => {
     <Fragment>
       <div className="form-back-drop" onClick={() => sidebarOnclick()} />
       {/* Hidden Sidebar */}
+
       <section className="hidden-bar">
         <div className="inner-box text-center">
           <div className="cross-icon" onClick={() => sidebarOnclick()}>
@@ -14,6 +15,7 @@ const Sidebar = () => {
             <h4>Get Appointment</h4>
           </div>
           {/*Appointment Form*/}
+
           <div className="appointment-form">
             <form
               onSubmit={(e) => {
@@ -52,6 +54,7 @@ const Sidebar = () => {
             </form>
           </div>
           {/*Social Icons*/}
+          
           <div className="social-style-one">
             <a href="#">
               <i className="fab fa-twitter" />

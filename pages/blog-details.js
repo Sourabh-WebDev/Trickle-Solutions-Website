@@ -4,7 +4,7 @@ import Layout from "../src/layout/Layout";
 const BlogDetails = () => {
   return (
     <Layout>
-      <PageBanner pageName={"Blog Details"} img={" https://www.appliedart.com/assets/images/blog/_newsFeatured/blogging-SMB.png"}/>
+      <PageBanner pageName={"Blog Details"} img={" https://www.appliedart.com/assets/images/blog/_newsFeatured/blogging-SMB.png"} />
       <section className="blog-details-area py-130 rpy-100">
         <div className="container">
           <div className="row">
@@ -29,11 +29,14 @@ const BlogDetails = () => {
                     <Link href="/blog-details">Comments (05)</Link>
                   </li>
                 </ul>
+                <div className="">
+                  <img src="https://tricklesolutions.com/wp-content/uploads/2019/03/Mission-PNG.png " />
+                </div>
                 <h3 className="title">
                   Creating Online Environments That Work Well For Older Users
                 </h3>
                 <p>
-                Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
+                  Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                   maiores alias consequatu{" "}
                 </p>
                 <p>
@@ -43,8 +46,7 @@ const BlogDetails = () => {
                   cannot foresee the pain and trouble that are bound to ensue;
                   and equal blame belongs to those who fail in their duty
                   through weakness of will, which is the same as saying through
-                  shrinking from toil and pain. These cases are perfectly simple
-                  and easy to distinguish. In a free hour
+                  shrinking from toil and pain.
                 </p>
                 <blockquote>
                   <h4>
@@ -90,7 +92,7 @@ const BlogDetails = () => {
                     <div className="content">
                       <h4>Rasalina Wilimson</h4>
                       <p>
-                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
+                        Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         At vero eos et accusamus et iusto odio dignissimos
                         ducimus qui blanditiis praesentium voluptatum deleniti
                         atqu corruptie quos dolores et quas molestias excepturi
@@ -176,7 +178,7 @@ const BlogDetails = () => {
                             <span className="comment-date">25 Feb 2022</span>
                           </div>
                           <p>
-                          Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
+                            Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                           </p>
                           <a href="#" className="reply-link">
                             Reply <i className="fas fa-long-arrow-alt-right" />
@@ -343,6 +345,7 @@ const BlogDetails = () => {
                   </div>
                   <h4>James D. Thomas</h4>
                   <p>
+                    Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                     Sit amet consectetur adipiscing elits do eiusmod tempor
                     incididunt ut labore etdol magna aliquas uspensis.{" "}
                   </p>
@@ -480,6 +483,7 @@ const BlogDetails = () => {
                     <Link href="/blog">Business</Link>
                     <Link href="/blog">Graphics</Link>
                   </div>
+                  <img src="https://tricklesolutions.com/wp-content/uploads/2019/03/values-clip-art.png" alt="blog" />
                 </div>
               </div>
             </div>
