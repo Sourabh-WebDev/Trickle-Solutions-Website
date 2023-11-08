@@ -49,6 +49,7 @@ const BlogStandard = () => {
                         </Link>
                       </h3>
                       <p>
+                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         Sit amet consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Quis
                         ipsum suspendisse ultrices gravida. Risus commodo
@@ -100,6 +101,7 @@ const BlogStandard = () => {
                         </Link>
                       </h3>
                       <p>
+                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         Sit amet consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Quis
                         ipsum suspendisse ultrices gravida. Risus commodo
@@ -151,6 +153,7 @@ const BlogStandard = () => {
                         </Link>
                       </h3>
                       <p>
+                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         Sit amet consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Quis
                         ipsum suspendisse ultrices gravida. Risus commodo
@@ -202,6 +205,7 @@ const BlogStandard = () => {
                         </Link>
                       </h3>
                       <p>
+                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         Sit amet consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Quis
                         ipsum suspendisse ultrices gravida. Risus commodo
@@ -237,6 +241,8 @@ const BlogStandard = () => {
                         <li>
                           <span className="name">Michael M. Morris</span>
                         </li>
+
+                        <img src="https://tricklesolutions.com/wp-content/uploads/2019/03/values-clip-art.png" alt="blog"/> 
                         <li>
                           <i className="far fa-calendar-alt" />{" "}
                           <Link href="/blog-details">February 20, 2022</Link>
@@ -253,6 +259,7 @@ const BlogStandard = () => {
                         </Link>
                       </h3>
                       <p>
+                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         Sit amet consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Quis
                         ipsum suspendisse ultrices gravida. Risus commodo
@@ -288,6 +295,7 @@ const BlogStandard = () => {
                   </div>
                   <h4>James D. Thomas</h4>
                   <p>
+                  Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                     Sit amet consectetur adipiscing elits do eiusmod tempor
                     incididunt ut labore etdol magna aliquas uspensis.{" "}
                   </p>
@@ -433,6 +441,7 @@ const BlogStandard = () => {
                     <Link href="/blog">Business</Link>
                     <Link href="/blog">Graphics</Link>
                   </div>
+                  <img src="https://tricklesolutions.com/wp-content/uploads/2019/03/values-clip-art.png" alt="blog"/>
                 </div>
               </div>
             </div>

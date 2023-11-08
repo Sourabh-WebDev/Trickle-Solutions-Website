@@ -63,7 +63,7 @@ const FollowIcon = () => (
         <Link href="/graphic-designing">Graphic Designing</Link>
       </li>
       <li>
-        <Link href="/website-development">Mearn Developer</Link>
+        <Link href="/website-development">Mern Developer</Link>
       </li>
     </Fragment>
   ),
