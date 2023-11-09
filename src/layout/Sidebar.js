@@ -4,6 +4,7 @@ const Sidebar = () => {
   return (
     <Fragment>
       <div className="form-back-drop" onClick={() => sidebarOnclick()} />
+
       {/* Hidden Sidebar */}
 
       <section className="hidden-bar">
@@ -14,6 +15,7 @@ const Sidebar = () => {
           <div className="title">
             <h4>Get Appointment</h4>
           </div>
+
           {/*Appointment Form*/}
 
           <div className="appointment-form">
@@ -53,6 +55,7 @@ const Sidebar = () => {
               </div>
             </form>
           </div>
+          
           {/*Social Icons*/}
           
           <div className="social-style-one">

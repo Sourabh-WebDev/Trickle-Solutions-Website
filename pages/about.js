@@ -116,7 +116,7 @@ const About = () => {
                 </div>
                 <h4>Experts Minds</h4>
                 <p>
-                Our Mission is to provide best and innovative IT and Software solutions to current industry and user needs.
+                Trickle Solutions are a technology  Our Mission is to provide best and innovative IT and Software solutions to current industry and user needs.
                 </p>
                 <Link href="/about">
                   <a className="details-btn">
@@ -132,7 +132,7 @@ const About = () => {
                 </div>
                 <h4>Multiple Courses</h4>
                 <p>
-                  Sed ut persiciatis omnis natus voluptate accsantie doloreue
+                Trickle Solutions are a technology Sed ut persiciatis omnis natus voluptate accsantie doloreue
                   laudantium
                 </p>
                 <Link href="/about">
@@ -149,7 +149,7 @@ const About = () => {
                 </div>
                 <h4>Hire Quickly</h4>
                 <p>
-                  Sed ut persiciatis omnis natus voluptate accsantie doloreue
+                Trickle Solutions are a technology Sed ut persiciatis omnis natus voluptate accsantie doloreue
                   laudantium
                 </p>
                 <Link href="/about">

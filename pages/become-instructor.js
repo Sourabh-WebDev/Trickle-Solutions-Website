@@ -68,8 +68,10 @@ const BecomeAnInstructor = () => {
           </div>
         </div>
       </section>
+
       {/* Join Our Team End */}
       {/* Benefit Work Process Start */}
+      
       <section className="benefit-work-process rel z-2 pt-120 rpt-90">
         <div className="container">
           <div className="section-title text-center mb-50">
