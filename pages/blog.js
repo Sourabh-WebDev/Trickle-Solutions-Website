@@ -49,7 +49,7 @@ const BlogStandard = () => {
                         </Link>
                       </h3>
                       <p>
-                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
+                        Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         Sit amet consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Quis
                         ipsum suspendisse ultrices gravida. Risus commodo
@@ -96,12 +96,11 @@ const BlogStandard = () => {
                       </ul>
                       <h3>
                         <Link href="/blog-details">
-                          Everything You Need To Know About CSS Margins
-                          Optimizing Google Fonts
+                          Google to launch Android Q Beta on Wednesday, tips leak official document: To get system-wide Dark Mode & more
                         </Link>
                       </h3>
                       <p>
-                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
+                        Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         Sit amet consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Quis
                         ipsum suspendisse ultrices gravida. Risus commodo
@@ -153,7 +152,7 @@ const BlogStandard = () => {
                         </Link>
                       </h3>
                       <p>
-                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
+                        Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         Sit amet consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Quis
                         ipsum suspendisse ultrices gravida. Risus commodo
@@ -205,7 +204,7 @@ const BlogStandard = () => {
                         </Link>
                       </h3>
                       <p>
-                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
+                        Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         Sit amet consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Quis
                         ipsum suspendisse ultrices gravida. Risus commodo
@@ -257,7 +256,7 @@ const BlogStandard = () => {
                         </Link>
                       </h3>
                       <p>
-                      Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
+                        Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         Sit amet consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Quis
                         ipsum suspendisse ultrices gravida. Risus commodo
@@ -293,27 +292,28 @@ const BlogStandard = () => {
                   </div>
                   <h4>James D. Thomas</h4>
                   <p>
-                  Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
+                    Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                     Sit amet consectetur adipiscing elits do eiusmod tempor
                     incididunt ut labore etdol magna aliquas uspensis.{" "}
                   </p>
                   <div className="social-style-two">
-                    <Link href="/contact">
+
+                    <Link href="/www.facebook.com/tricklesolutions">
                       <a>
                         <i className="fab fa-facebook-f" />
                       </a>
                     </Link>
-                    <Link href="/contact">
+                    <Link href="/www.twitter.com/tricklesolutions">
                       <a>
                         <i className="fab fa-twitter" />
                       </a>
                     </Link>
-                    <Link href="/contact">
+                    <Link href="/www.linkdincom/tricklesolutions">
                       <a>
                         <i className="fab fa-linkedin-in" />
                       </a>
                     </Link>
-                    <Link href="/contact">
+                    <Link href="/www.youtube.comsolutions">
                       <a>
                         <i className="fab fa-youtube" />
                       </a>

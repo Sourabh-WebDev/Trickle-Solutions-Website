@@ -70,13 +70,13 @@ const BlogDetails = () => {
                   </div>
                   <div className="social-style-two">
                     <h6>Share :</h6>
-                    <Link href="/contact">
+                    <Link href="/www.facebook.com/tricklesolutions">
                       <i className="fab fa-facebook-f" />
                     </Link>
-                    <Link href="/contact">
+                    <Link href="/www.twitter.com/tricklesolutions">
                       <i className="fab fa-twitter" />
                     </Link>
-                    <Link href="/contact">
+                    <Link href="/www.linkdin.com/tricklesolutions">
                       <i className="fab fa-linkedin-in" />
                     </Link>
                   </div>
@@ -99,19 +99,19 @@ const BlogDetails = () => {
                         sint
                       </p>
                       <div className="social-style-two">
-                        <Link href="/contact">
+                        <Link href="/www.facebook.com/tricklesolutions">
                           <i className="fab fa-facebook-f" />
                         </Link>
-                        <Link href="/contact">
+                        <Link href="/www.twitter.com/tricklesolutions">
                           <i className="fab fa-twitter" />
                         </Link>
-                        <Link href="/contact">
+                        <Link href="/www.instagram.com/tricklesolutions">
                           <i className="fab fa-instagram" />
                         </Link>
-                        <Link href="/contact">
+                        <Link href="/www.behance.com/tricklesolutions">
                           <i className="fab fa-behance" />
                         </Link>
-                        <Link href="/contact">
+                        <Link href="/www.dribbble.com/tricklesolutions">
                           <i className="fab fa-dribbble" />
                         </Link>
                       </div>
