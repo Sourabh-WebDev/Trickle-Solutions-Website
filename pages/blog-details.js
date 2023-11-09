@@ -30,7 +30,7 @@ const BlogDetails = () => {
                   </li>
                 </ul>
                 <div className="">
-                  <img src="https://tricklesolutions.com/wp-content/uploads/2019/03/Mission-PNG.png " />
+                  <img src="" />
                 </div>
                 <h3 className="title">
                   Creating Online Environments That Work Well For Older Users
@@ -350,16 +350,16 @@ const BlogDetails = () => {
                     incididunt ut labore etdol magna aliquas uspensis.{" "}
                   </p>
                   <div className="social-style-two">
-                    <Link href="/contact">
+                    <Link href="/www.facebook.com/tricklesolutions">
                       <i className="fab fa-facebook-f" />
                     </Link>
-                    <Link href="/contact">
+                    <Link href="/www.twitter.com/tricklesolutions">
                       <i className="fab fa-twitter" />
                     </Link>
-                    <Link href="/contact">
+                    <Link href="/www.linkdin.com/tricklesolutions">
                       <i className="fab fa-linkedin-in" />
                     </Link>
-                    <Link href="/contact">
+                    <Link href="/www.youtube.com/tricklesolutions">
                       <i className="fab fa-youtube" />
                     </Link>
                   </div>
@@ -483,7 +483,6 @@ const BlogDetails = () => {
                     <Link href="/blog">Business</Link>
                     <Link href="/blog">Graphics</Link>
                   </div>
-                  <img src="https://tricklesolutions.com/wp-content/uploads/2019/03/values-clip-art.png" alt="blog" />
                 </div>
               </div>
             </div>

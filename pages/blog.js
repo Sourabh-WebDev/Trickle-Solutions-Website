@@ -241,8 +241,6 @@ const BlogStandard = () => {
                         <li>
                           <span className="name">Michael M. Morris</span>
                         </li>
-
-                        <img src="https://tricklesolutions.com/wp-content/uploads/2019/03/values-clip-art.png" alt="blog"/> 
                         <li>
                           <i className="far fa-calendar-alt" />{" "}
                           <Link href="/blog-details">February 20, 2022</Link>
@@ -441,7 +439,6 @@ const BlogStandard = () => {
                     <Link href="/blog">Business</Link>
                     <Link href="/blog">Graphics</Link>
                   </div>
-                  <img src="https://tricklesolutions.com/wp-content/uploads/2019/03/values-clip-art.png" alt="blog"/>
                 </div>
               </div>
             </div>
