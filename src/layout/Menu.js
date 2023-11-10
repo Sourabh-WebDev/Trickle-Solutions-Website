@@ -63,6 +63,26 @@ export const Services = () => (
       <Link href="/graphic-designing">Graphic Designing</Link>
     </li>
 
+    <li>
+      <Link href="/Mern-development">Mern Development</Link>
+    </li>
+
+    <li>
+      <Link href="/Php-development">Php Development</Link>
+    </li>
+
+    <li>
+      <Link href="/Wordpress-development">WordPress Development</Link>
+    </li>
+
+    <li>
+      <Link href="/Native-development">Native Development</Link>
+    </li>
+
+    <li>
+      <Link href="/Seo-services">SEO Services</Link>
+    </li>
+
   </Fragment>
 
 );
