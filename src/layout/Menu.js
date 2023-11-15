@@ -2,7 +2,7 @@ import Link from "next/link";
 import { Fragment } from "react";
 
 export const Home = () => (
-  
+
   <Fragment>
     {/* <li>
       <Link href="/">Home One</Link>
@@ -82,6 +82,19 @@ export const Services = () => (
     <li>
       <Link href="/Seo-services">SEO Services</Link>
     </li>
+
+    <li>
+      <Link href="/psd-html">PSD To HTML Services</Link>
+    </li>
+
+    <li>
+      <Link href="/affiliate-marketing">Affiliate Maketing</Link>
+    </li>
+
+    <li>
+      <Link href="/ecom-hosting"> Ecommerence Web Hosting </Link>
+    </li>
+    
 
   </Fragment>
 
