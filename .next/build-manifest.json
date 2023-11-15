@@ -15,20 +15,10 @@
   ],
   "rootMainFiles": [],
   "pages": {
-    "/Mern-development": [
+    "/Wordpress-development": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/Mern-development.js"
-    ],
-    "/Native-development": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/Native-development.js"
-    ],
-    "/Seo-services": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/Seo-services.js"
+      "static/chunks/pages/Wordpress-development.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
@@ -39,6 +29,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
+    ],
+    "/ecom-hosting": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/ecom-hosting.js"
     ]
   },
   "ampFirstPages": []
