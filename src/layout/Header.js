@@ -363,12 +363,12 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                 <div className="logo">
                   <Link href="/">
                     <a>
-                    <img
-                      height={120}
-                      src="assets/images/logos/TS-LOGOBGLESS.png"
-                      alt="Logo"
-                      title="Logo"
-                    />
+                      <img
+                        height={120}
+                        src="assets/images/logos/TS-LOGOBGLESS.png"
+                        alt="Logo"
+                        title="Logo"
+                      />
                     </a>
                   </Link>
                 </div>
@@ -383,18 +383,18 @@ const Header1 = ({ navToggle, setNavToggle }) => (
                 {/* Main Menu */}
                 <nav className="main-menu navbar-expand-lg">
                   <div className="navbar-header">
-                  <div className="logo">
-                  <Link href="/">
-                    <a>
-                    <img
-                      height={120}
-                      src="assets/images/logos/TS-LOGOBGLESS.png"
-                      alt="Logo"
-                      title="Logo"
-                    />
-                    </a>
-                  </Link>
-                </div>
+                    <div className="logo">
+                      <Link href="/">
+                        <a>
+                          <img
+                            height={120}
+                            src="assets/images/logos/TS-LOGOBGLESS.png"
+                            alt="Logo"
+                            title="Logo"
+                          />
+                        </a>
+                      </Link>
+                    </div>
                     {/* Toggle Button */}
                     <button
                       type="button"
@@ -467,7 +467,7 @@ const Header1 = ({ navToggle, setNavToggle }) => (
       </li>
       <li className="dropdown">
         <a href="#">Service</a>
-        <ul>
+        <ul style={{ minWidth: '900px', left:'-250px'}}>
           <Services />
         </ul>
         <div className="dropdown-btn">

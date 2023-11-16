@@ -10,16 +10,18 @@ const ecomhosting = () => {
     };
 
     const tasks = [
-        'Weekly campaign optimization to maintain leads and cost per lead',
-        'Re-marketing / Display campaign creation',
+        'Frontpage Server Extensions',
+        ' Secure Payment Processing',
         'Merchant Center Account creation for E-commerce',
-        'Uploading of shopping feed in the Merchant Center account',
+        'Cost-free set-up',
+        'Round The Clock Technical Assistance',
+        '30 Days Money Back Guarantee',
         'Dynamic Re-marketing campaign'
 
     ];
 
-  return (
-    <Layout>
+    return (
+        <Layout>
             <PageBanner pageName={"ecom- web-hosting"} img={"https://digitalchaabi.com/wp-content/uploads/2022/03/ecommerce-web-developmnt.jpg"} />
             <section className="course-details-area pt-130 rpt-100">
                 <div className="container">
@@ -58,19 +60,19 @@ const ecomhosting = () => {
                                 </ul> */}
                                 <div className="image mb-35">
                                     <img
-                                        src=""
+                                        src="https://blog.sagipl.com/wp-content/uploads/2018/03/eCommerce-Business-Ideas-1.jpg"
                                         alt="Course Details"
                                     />
                                 </div>
                                 <p>
-                                    static website is one that has web pages stored on the server in the format that is sent to a client web browser.
-                                    It is primarily coded in Hypertext Markup Language (HTML); Cascading Style Sheets (CSS) are used to control appearance beyond basic HTML.
+                                    What is Web Hosting?
+                                    Websites are hosted on servers. The computers that house websites and the data related to those websites are called servers. Every time you visit a website, the server is the first thing your browser talks to. It is where the website files are st...
                                     Images are commonly used to effect the desired appearance and as part of the main content. Audio or video might also be considered “static” content if it plays automatically or is generally non-interactive.
                                     This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus.
 
                                 </p>
 
-                              
+
                                 {/* <h3 className="mt-40">Requirements</h3>
                                 <ul className="list-style-two mb-45">
                                     <li>
@@ -432,9 +434,9 @@ const ecomhosting = () => {
                         </div>
                         <div className="col-lg-6">
 
-                            <h3 className="mt-40">Ecommerence Web Hosting</h3>
-                            <ul className="list-style-two mb-45">
+                            <h3 className="mt-40">Features of Our E-Commerce Hosting Services</h3>
 
+                            <ul className="list-style-two mb-45">
                                 {
                                     tasks.map((item) => (
                                         <li>
@@ -455,7 +457,7 @@ const ecomhosting = () => {
                                 </li>
                             </ul>
 
-                          
+
 
                             {/* <div className="course-sidebar rmt-75">
                                 <div className="widget widget-course-details wow fadeInUp delay-0-2s">
@@ -926,8 +928,8 @@ const ecomhosting = () => {
                 </div>
             </section> */}
         </Layout>
-    
-  )
+
+    )
 }
 
 export default ecomhosting
