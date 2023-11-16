@@ -27,7 +27,7 @@ const serviceList = [
   },
 
   {
-    id: 5, Services: "Web Hostingt",
+    id: 5, Services: "Web Hosting",
     link: "/web-hosting"
   },
 
