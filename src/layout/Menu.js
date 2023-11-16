@@ -8,7 +8,7 @@ const serviceList = [
 
   {
     id: 1,
-    Services: "Web Dvelopment",
+    Services: "Website Designing",
     link: "/website-designing"
   },
 
