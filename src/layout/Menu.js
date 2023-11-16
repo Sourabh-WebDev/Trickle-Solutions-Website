@@ -1,6 +1,104 @@
 import Link from "next/link";
 import { Fragment } from "react";
 
+
+
+
+const serviceList = [
+
+  {
+    id: 1,
+    Services: "Web Dvelopment",
+    link: "/website-designing"
+  },
+
+  {
+    id: 2, Services: "App Dvelopment",
+    link: "/app-development"
+  },
+
+  {
+    id: 3, Services: "Digital Marketing",
+    link: "/digital-Markrting"
+  },
+  {
+    id: 4, Services: "Website Development",
+    link: "/website-development"
+  },
+
+  {
+    id: 5, Services: "Web Hostingt",
+    link: "/web-hosting"
+  },
+
+  {
+    id: 6, Services: "Graphic Designing",
+    link: "/graphic-designing"
+  },
+
+  {
+    id: 7, Services: "Mern Development",
+    link: "/Mern-development"
+  },
+
+  {
+    id: 8, Services: "Php Development",
+    link: "/Php-development"
+  },
+
+  {
+    id: 9, Services: "WordPress Development",
+    link: "/Wordpress-development"
+  },
+
+  {
+    id: 10, Services: "Native Development",
+    link: "/Native-development"
+  },
+
+  {
+    id: 11, Services: "SEO Services",
+    link: "/Seo-services"
+  },
+
+  {
+    id: 12, Services: "PSD To HTML Services",
+    link: "/psd-html"
+  },
+
+  {
+    id: 13, Services: "Affiliate Maketing",
+    link: "/affiliate-marketing"
+  },
+
+  {
+    id: 14, Services: "Ecommerence Web Hosting",
+    link: "/ecom-hosting"
+  },
+
+  {
+    id: 15, Services: "Logo Design Services",
+    link: "/logo-services"
+  },
+
+  {
+    id: 16, Services: "Window Dedicated Server ",
+    link: "/window-server"
+  },
+
+  {
+    id: 17, Services: "Multi Testing Services",
+    link: "/testing-services"
+  },
+
+  {
+    id: 18, Services: "Content Writing Services",
+    link: "/content-services"
+  },
+
+]
+
+
 export const Home = () => (
 
   <Fragment>
@@ -37,9 +135,24 @@ export const Courses = () => (
 );
 
 export const Services = () => (
+
+
+
+
   <Fragment>
 
-    <li>
+    <div className="row">
+      {
+        serviceList.map((item, index) => (
+          <div className="col-4">
+            <li key={index}>
+              <Link href={item.link}>{item.Services}</Link>
+            </li>
+          </div>
+        ))
+      }
+    </div>
+    {/* <li>
       <Link href="/website-designing">Website Designing</Link>
     </li>
 
@@ -93,8 +206,8 @@ export const Services = () => (
 
     <li>
       <Link href="/ecom-hosting"> Ecommerence Web Hosting </Link>
-    </li>
-    
+    </li> */}
+
 
   </Fragment>
 

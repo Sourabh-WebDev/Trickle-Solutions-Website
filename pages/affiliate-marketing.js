@@ -10,19 +10,21 @@ const affiliatemarketing = () => {
     };
 
     const tasks = [
-       
-        'Weekly campaign optimization to maintain leads and cost per lead',
-        'Re-marketing / Display campaign creation',
+
+        'No substantial investment required from the affiliates',
+        'COST Per Thousand Impressions (CPM)',
         'Merchant Center Account creation for E-commerce',
         'Uploading of shopping feed in the Merchant Center account',
+        'Recognizing and subscribing to probable publisher advertising networks',
+        'Affiliate monitoring services and fraud prevention',
         'Dynamic Re-marketing campaign'
 
     ];
 
 
-  return (
+    return (
 
-    <Layout>
+        <Layout>
             <PageBanner pageName={"Affilite Marketing"} img={"https://thumbs.dreamstime.com/z/open-notepad-affiliate-marketing-sketch-concept-87455335.jpg?w=992"} />
             <section className="course-details-area pt-130 rpt-100">
                 <div className="container">
@@ -66,11 +68,13 @@ const affiliatemarketing = () => {
                                     />
                                 </div>
                                 <p>
-                                    static website is one that has web pages stored on the server in the format that is sent to a client web browser.
-                                    It is primarily coded in Hypertext Markup Language (HTML); Cascading Style Sheets (CSS) are used to control appearance beyond basic HTML.
+                                    As your affiliate marketing agency, we timely communicate with the publishers to create a sense of solidarity in them with your campaign. This keeps them inspired in order to push your marketing efforts for a long period of time.
                                     Images are commonly used to effect the desired appearance and as part of the main content. Audio or video might also be considered “static” content if it plays automatically or is generally non-interactive.
                                     This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus.
-
+                                    we do thorough research in order to find an appropriate contextual relation between you and the website of the publisher, in order to hire relevant
+                                    publishers for your affiliate marketing campaign.
+                                    We evaluate applications and remove all the junk
+                                    publishers to avoid any unwanted traffic coming to the website, which leads to low bounce rates, and cost savings, thus, helping us make our name as the best
                                 </p>
                                 {/* <h3 className="mt-40">Requirements</h3>
                                 <ul className="list-style-two mb-45">
@@ -456,7 +460,7 @@ const affiliatemarketing = () => {
                                 </li>
                             </ul>
 
-                          
+
 
                             {/* <div className="course-sidebar rmt-75">
                                 <div className="widget widget-course-details wow fadeInUp delay-0-2s">
@@ -928,7 +932,7 @@ const affiliatemarketing = () => {
             </section> */}
         </Layout>
 
-  )
+    )
 }
 
 export default affiliatemarketing
