@@ -42,12 +42,12 @@ const BlogStandard = () => {
                           <Link href="/blog-details">Comments (05)</Link>
                         </li>
                       </ul>
-                      <h3>
+                      {/* <h3>
                         <Link href="/blog-details">
                           Creating Online Environments That Work Well For Older
                           Users
                         </Link>
-                      </h3>
+                      </h3> */}
                       <p>
                         Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
                         Sit amet consectetur adipiscing elit, sed do eiusmod
@@ -55,11 +55,11 @@ const BlogStandard = () => {
                         ipsum suspendisse ultrices gravida. Risus commodo
                         viverra maecenas accumsan lacus vel facilisis.{" "}
                       </p>
-                      <Link href="/blog-details">
+                      {/* <Link href="/blog-details">
                         <a className="theme-btn style-two">
                           Learn more <i className="fas fa-arrow-right" />
                         </a>
-                      </Link>
+                      </Link> */}
                     </div>
                   </div>
                 </div>
