@@ -44,7 +44,7 @@ const FollowIcon = () => (
 ),
   Services = () => (
     <Fragment>
-      <li>
+      {/* <li>
         <Link href="/website-designing">Website Designing</Link>
       </li>
       <li>
@@ -67,12 +67,12 @@ const FollowIcon = () => (
       </li>
       <li>
         <Link href="/Php-development">Php Development</Link>
-      </li>
+      </li> */}
     </Fragment>
   ),
   Resources = () => (
     <Fragment>
-      <li>
+      {/* <li>
         <Link href="/contact">ERP Development</Link>
       </li>
       <li>
@@ -89,7 +89,7 @@ const FollowIcon = () => (
       </li>
       <li>
         <Link href="/contact">Template</Link>
-      </li>
+      </li> */}
     </Fragment>
   ),
   FooterBottom = () => (
@@ -121,19 +121,60 @@ const FollowIcon = () => (
         <div className="row justify-content-between text-white pt-75">
           <div className="col-lg-3 col-sm-4">
             <div className="footer-widget about-widget">
-              <h5 className="footer-title">About Us</h5>
-              <p>
+              <h5 className="footer-title">Design</h5>
+              <li>
+                <Link href="/website-designing">Website Designing</Link>
+              </li>
+
+              <li>
+                <Link href="/graphic-designing">Graphic Designing</Link>
+              </li>
+
+              <li>
+                <Link href="/psd-html">Figma To HTML Services</Link>
+              </li>
+
+              <li>
+                <Link href="/mobile-web"> Mobile Web Design</Link>
+              </li>
+
+              <li>
+                <Link href="/logo-services">Logo Design Services</Link>
+              </li>
+
+              {/* <p>
                 Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
-              </p>
-              <h5 className="pt-5">Follow Us</h5>
+              </p> */}
+              {/* <h5 className="pt-5">Follow Us</h5> */}
               <div className="social-style-one">
-                <FollowIcon />
+                {/* <FollowIcon /> */}
               </div>
             </div>
           </div>
           <div className="col-lg-2 col-md-3 col-sm-4">
             <div className="footer-widget menu-widget">
-              <h5 className="footer-title">Services</h5>
+              <h5 className="footer-title">Development</h5>
+
+              <li>
+                <Link href="/website-development">Website Development</Link>
+              </li>
+
+              <li>
+                <Link href="/app-development">App Development</Link>
+              </li>
+
+              <li>
+                <Link href="/contact">ERP Development</Link>
+              </li>
+
+              <li>
+                <Link href="/Php-development">Php Development</Link>
+              </li>
+
+              <li>
+                <Link href="/Wordpress-development">WordPress Development</Link>
+              </li>
+
               <ul>
                 <Services />
               </ul>
@@ -141,7 +182,24 @@ const FollowIcon = () => (
           </div>
           <div className="col-lg-2 col-md-3 col-sm-4">
             <div className="footer-widget menu-widget">
-              <h5 className="footer-title">Resources</h5>
+              <h5 className="footer-title">Marketing</h5>
+
+              <li>
+                <Link href="/digital-Markting">Digital Marketing</Link>
+              </li>
+
+              <li>
+                <Link href="/Seo-services">SEO / SMO Services</Link>
+              </li>
+
+              <li>
+                <Link href="/affiliate-marketing">Affiliate Maketing</Link>
+              </li>
+
+              <li>
+                <Link href="/web-hosting">Web Hosting</Link>
+              </li>
+
               <ul>
                 <Resources />
               </ul>
@@ -284,10 +342,10 @@ const FollowIcon = () => (
                 Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
               </p>
               <Link href="/about">
-                    <a className="read-more">
-                      view more <i className="fas fa-arrow-right" />
-                    </a>
-                  </Link>
+                <a className="read-more">
+                  view more <i className="fas fa-arrow-right" />
+                </a>
+              </Link>
               <div className="social-style-one pt-10">
                 <FollowIcon />
               </div>

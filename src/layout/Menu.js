@@ -21,81 +21,88 @@ const serviceList = [
     id: 3, Services: "Digital Marketing",
     link: "/digital-Markrting"
   },
-  {
-    id: 4, Services: "Website Development",
-    link: "/website-development"
-  },
 
   {
-    id: 5, Services: "Web Hosting",
-    link: "/web-hosting"
-  },
-
-  {
-    id: 6, Services: "Graphic Designing",
+    id: 4, Services: "Graphic Designing",
     link: "/graphic-designing"
   },
 
   {
-    id: 7, Services: "Mern Development",
-    link: "/Mern-development"
+    id: 5, Services: "Website Development",
+    link: "/website-development"
   },
 
   {
-    id: 8, Services: "Php Development",
-    link: "/Php-development"
+    id: 6, Services: "Web Hosting",
+    link: "/web-hosting"
   },
 
   {
-    id: 9, Services: "WordPress Development",
-    link: "/Wordpress-development"
-  },
-
-  {
-    id: 10, Services: "Native Development",
-    link: "/Native-development"
-  },
-
-  {
-    id: 11, Services: "SEO Services",
-    link: "/Seo-services"
-  },
-
-  {
-    id: 12, Services: "PSD To HTML Services",
+    id: 7, Services: "Figma To HTML Services",
     link: "/psd-html"
   },
 
   {
-    id: 13, Services: "Affiliate Maketing",
-    link: "/affiliate-marketing"
+    id: 8, Services: "MERN Development",
+    link: "/Mern-development"
   },
 
   {
-    id: 14, Services: "Ecommerence Web Hosting",
-    link: "/ecom-hosting"
+    id: 9, Services: "PHP Development",
+    link: "/Php-development"
   },
 
   {
-    id: 15, Services: "Logo Design Services",
+    id: 10, Services: "Logo Design Services",
     link: "/logo-services"
   },
 
   {
-    id: 16, Services: "Window Dedicated Server ",
+    id: 11, Services: "WordPress Development",
+    link: "/Wordpress-development"
+  },
+
+  {
+    id: 12, Services: "Native Development",
+    link: "/Native-development"
+  },
+
+  {
+    id: 13, Services: "Mobile Web Design",
+    link: "/mobile-web"
+  },
+
+  {
+    id: 14, Services: "SEO/SMO Services",
+    link: "/Seo-services"
+  },
+
+  {
+    id: 15, Services: "Affiliate Maketing",
+    link: "/affiliate-marketing"
+  },
+
+  {
+    id: 16, Services: "Ecommerence Web Hosting",
+    link: "/ecom-hosting"
+  },
+
+  {
+    id: 17, Services: "Window Dedicated Server ",
     link: "/window-server"
   },
 
   {
-    id: 17, Services: "Multi Testing Services",
+    id: 18, Services: "Multi Testing Services",
     link: "/testing-services"
   },
 
   {
-    id: 18, Services: "Content Writing Services",
+    id: 19, Services: "Content Writing Services",
     link: "/content-services"
   },
 
+ 
 ]
 
 
@@ -256,8 +263,8 @@ export const Blog = () => (
     <li>
       <Link href="/blog">Blog Page</Link>
     </li>
-    <li>
+    {/* <li>
       <Link href="/blog-details">Blog Details</Link>
-    </li>
+    </li> */}
   </Fragment>
 );

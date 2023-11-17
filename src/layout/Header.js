@@ -484,13 +484,13 @@ const Header1 = ({ navToggle, setNavToggle }) => (
         </div> */}
       </li>
       <li className="dropdown">
-        <a href="#">blog</a>
-        <ul>
+        <a href="/blog-details">blog</a>
+        {/* <ul>
           <Blog />
-        </ul>
-        <div className="dropdown-btn">
+        </ul> */}
+        {/* <div className="dropdown-btn">
           <span className="fas fa-chevron-down" />
-        </div>
+        </div> */}
       </li>
     </ul>
   ),
