@@ -90,7 +90,9 @@ const FollowIcon = () => (
       <li>
         <Link href="/contact">Template</Link>
       </li> */}
+
     </Fragment>
+    
   ),
   FooterBottom = () => (
     <Fragment>
@@ -140,6 +142,7 @@ const FollowIcon = () => (
 
               <li>
                 <Link href="/logo-services">Logo Design Services</Link>
+
               </li>
 
               {/* <p>
