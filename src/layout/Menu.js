@@ -48,8 +48,8 @@ const serviceList = [
   },
 
   {
-    id: 9, Services: "PHP Development",
-    link: "/Php-development"
+    id: 9, Services: "SEO/SMO Services",
+    link: "/Seo-services"
   },
 
   {
@@ -63,8 +63,8 @@ const serviceList = [
   },
 
   {
-    id: 12, Services: "Native Development",
-    link: "/Native-development"
+    id: 12, Services: "Window Dedicated Server",
+    link: "/window-server"
   },
 
   {
@@ -73,8 +73,8 @@ const serviceList = [
   },
 
   {
-    id: 14, Services: "SEO/SMO Services",
-    link: "/Seo-services"
+    id: 14, Services: "PHP Development",
+    link: "/Php-development"
   },
 
   {
@@ -83,13 +83,13 @@ const serviceList = [
   },
 
   {
-    id: 16, Services: "Ecommerence Web Hosting",
-    link: "/ecom-hosting"
+    id: 16, Services: "Content Writing Services",
+    link: "/content-services"
   },
 
   {
-    id: 17, Services: "Window Dedicated Server ",
-    link: "/window-server"
+    id: 17, Services: "Native Development",
+    link: "/Native-development"
   },
 
   {
@@ -98,11 +98,20 @@ const serviceList = [
   },
 
   {
-    id: 19, Services: "Content Writing Services",
-    link: "/content-services"
+    id: 19, Services: "Static Web Design",
+    link: "/static-design"
   },
 
- 
+  {
+    id: 20, Services: "Web Portal Development",
+    link: "/webportal-development"
+  },
+
+  {
+    id: 21, Services: "Ecommerence Web Hosting",
+    link: "/ecom-hosting"
+  },
+
 ]
 
 
