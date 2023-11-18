@@ -7,12 +7,12 @@ const Footer = ({ footer }) => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
   switch (footer) {
-    case 1:
-      return <Footer1 scrollTop={scrollTop} />;
-    case 3:
-      return <Footer3 scrollTop={scrollTop} />;
-    case 4:
-      return <Footer4 scrollTop={scrollTop} />;
+    // case 1:
+    //   return <Footer1 scrollTop={scrollTop} />;
+    // case 3:
+    //   return <Footer3 scrollTop={scrollTop} />;
+    // case 4:
+    //   return <Footer4 scrollTop={scrollTop} />;
     default:
       return <DefaultFooter scrollTop={scrollTop} />;
   }
@@ -92,7 +92,7 @@ const FollowIcon = () => (
       </li> */}
 
     </Fragment>
-    
+
   ),
   FooterBottom = () => (
     <Fragment>
@@ -112,7 +112,7 @@ const FollowIcon = () => (
   ),
   CopyRight = () => (
     <p>
-      © {new Date().getFullYear()}. <Link href="/">Trickle Solutions</Link> All rights
+      © {new Date().getFullYear()}. <Link href="/"> Copyrights Trickle Solutions Pvt. Ltd.</Link> All rights
       reserved.
     </p>
   ),
@@ -123,7 +123,7 @@ const FollowIcon = () => (
         <div className="row justify-content-between text-white pt-75">
           <div className="col-lg-3 col-sm-4">
             <div className="footer-widget about-widget">
-              <h5 className="footer-title">Design</h5>
+              <h5 className="footer-title text-success">Designing</h5>
               <li>
                 <Link href="/website-designing">Website Designing</Link>
               </li>
@@ -142,21 +142,33 @@ const FollowIcon = () => (
 
               <li>
                 <Link href="/logo-services">Logo Design Services</Link>
+              </li>
 
+              <li>
+                <Link href="/logo-services">Responsive Web Design</Link>
+              </li>
+
+              <li>
+                <Link href="/logo-services">Dynamic Web Design</Link>
+              </li>
+
+              <li>
+                <Link href="/static-design">Static Web Design</Link>
               </li>
 
               {/* <p>
                 Trickle Solutions are a technology driven and innovation oriented progressive company which provides a distinct platform that caters to a wide range of customers across the globe.
               </p> */}
-              {/* <h5 className="pt-5">Follow Us</h5> */}
+
+              <h5 className="pt-5 text-success">Follow Us</h5>
               <div className="social-style-one">
-                {/* <FollowIcon /> */}
+                <FollowIcon />
               </div>
             </div>
           </div>
           <div className="col-lg-2 col-md-3 col-sm-4">
             <div className="footer-widget menu-widget">
-              <h5 className="footer-title">Development</h5>
+              <h5 className="footer-title text-success">Development</h5>
 
               <li>
                 <Link href="/website-development">Website Development</Link>
@@ -178,14 +190,23 @@ const FollowIcon = () => (
                 <Link href="/Wordpress-development">WordPress Development</Link>
               </li>
 
+              <li>
+                <Link href="/Native-development">Native Development</Link>
+              </li>
+
+              <li>
+                <Link href="/webportal-development">Web Portal Development</Link>
+              </li>
+
               <ul>
                 <Services />
               </ul>
             </div>
           </div>
+
           <div className="col-lg-2 col-md-3 col-sm-4">
             <div className="footer-widget menu-widget">
-              <h5 className="footer-title">Marketing</h5>
+              <h5 className="footer-title text-success">Marketing</h5>
 
               <li>
                 <Link href="/digital-Markting">Digital Marketing</Link>
@@ -203,6 +224,14 @@ const FollowIcon = () => (
                 <Link href="/web-hosting">Web Hosting</Link>
               </li>
 
+              <li>
+                <Link href="/content-services">Content Writing Services</Link>
+              </li>
+
+              <li>
+                <Link href="/testing-services">Multivariate Testing Services</Link>
+              </li>
+
               <ul>
                 <Resources />
               </ul>
@@ -212,7 +241,7 @@ const FollowIcon = () => (
             <div className="row">
               <div className="col-sm-6">
                 <div className="footer-widget contact-info-widget">
-                  <h5 className="footer-title">Get In Touch</h5>
+                  <h5 className="footer-title text-success">Get In Touch</h5>
                   <ul>
                     <li>
                       <i className="fas fa-map-marker-alt" /> Ravi Complex, Sultanpur Road,
@@ -233,9 +262,11 @@ const FollowIcon = () => (
                   </ul>
                 </div>
               </div>
+
               <div className="col-sm-6">
                 <div className="footer-widget video-widget">
                   <p>Quis autem vel eum iure repre enderit voluptate</p>
+
                   {/* <div className="video-widget overlay my-20">
                     <img src="assets/images/footer/video.jpg" alt="Video" />
                     <a
@@ -246,12 +277,28 @@ const FollowIcon = () => (
                     </a>
                   </div> */}
                   <Link href="/about">
-                    <a className="read-more">
+                    <a className="read-more text-success ">
                       view more <i className="fas fa-arrow-right" />
                     </a>
                   </Link>
                 </div>
               </div>
+
+              <div className="about-page-middle rpt-55 rpb-30 wow fadeInRight delay-0-10s">
+                <div className="circle-content">
+                  <b>18+</b>
+                  <span>Years Of Experience</span>
+                </div>
+              </div>
+
+              <div>
+                <h2 className="text-success">ISO 9001:2024</h2>
+                <span style={{
+                  fontSize: "15px",
+                  lineHeight: "15px",
+                }}>Certified Web Design  Company India</span>
+              </div>
+
             </div>
           </div>
         </div>

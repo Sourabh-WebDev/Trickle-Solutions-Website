@@ -36,7 +36,7 @@ const Faq = () => {
             key={i}
           >
             <p>
-              Sit amet consectetur adipiscing elit sed do eiusmod tempor
+            Trickle Solutions Pvt Ltd adipiscing elit sed do eiusmod tempor
               incididunt ut labore et dolore magna aliqua. Quis ipsum suspendise
               ultre gravida. risus commodo viverra maecenas accumsan lacus.{" "}
             </p>
@@ -53,7 +53,7 @@ const Faq = () => {
             eventName={`b${i + 1}`}
           >
             <p>
-              Sit amet consectetur adipiscing elit sed do eiusmod tempor
+              Trickle Solutions Pvt Ltd adipiscing elit sed do eiusmod tempor
               incididunt ut labore et dolore magna aliqua. Quis ipsum suspendise
               ultre gravida. risus commodo viverra maecenas accumsan lacus.{" "}
             </p>
@@ -171,7 +171,7 @@ const Faqs = () => {
                   </div>
                   <div className="content">
                     <h6>Phone Number</h6>
-                    <a href="callto:+012(345)6789">+012(345) 67 89</a>
+                    <a href="callto:+91">+917290900835</a>
                   </div>
                 </div>
               </div>
