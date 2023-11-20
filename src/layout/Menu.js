@@ -88,7 +88,7 @@ const serviceList = [
   },
 
   {
-    id: 17, Services: "Native Development",
+    id: 17, Services: "Native App Development",
     link: "/Native-development"
   },
 

@@ -112,7 +112,7 @@ const FollowIcon = () => (
   ),
   CopyRight = () => (
     <p>
-      © {new Date().getFullYear()}. <Link href="/"> Copyrights Trickle Solutions Pvt. Ltd.</Link> All rights
+      © <Link href="/">Copyright 2016-2023 Trickle Solutions Pvt. Ltd.</Link> All rights
       reserved.
     </p>
   ),
@@ -120,7 +120,7 @@ const FollowIcon = () => (
     <footer className="main-footer bg-blue">
       <div className="container">
         {/* <Newsletters /> */}
-        <div className="row justify-content-between text-white pt-75">
+        <div className="row text-white pt-75">
           <div className="col-lg-3 col-sm-4">
             <div className="footer-widget about-widget">
               <h5 className="footer-title text-success">Designing</h5>
@@ -187,15 +187,15 @@ const FollowIcon = () => (
               </li>
 
               <li>
-                <Link href="/Wordpress-development">WordPress Development</Link>
+                <Link href="/Wordpress-development">WordPress Dev.</Link>
               </li>
 
               <li>
-                <Link href="/Native-development">Native Development</Link>
+                <Link href="/Native-development">Native  App Dev.</Link>
               </li>
 
               <li>
-                <Link href="/webportal-development">Web Portal Development</Link>
+                <Link href="/webportal-development">Web Portal Dev.</Link>
               </li>
 
               <ul>
@@ -225,11 +225,11 @@ const FollowIcon = () => (
               </li>
 
               <li>
-                <Link href="/content-services">Content Writing Services</Link>
+                <Link href="/content-services">Content Writing Serv.</Link>
               </li>
 
               <li>
-                <Link href="/testing-services">Multivariate Testing Services</Link>
+                <Link href="/testing-services">Multi Testing Services</Link>
               </li>
 
               <ul>
@@ -237,7 +237,7 @@ const FollowIcon = () => (
               </ul>
             </div>
           </div>
-          <div className="col-lg-5">
+          <div className="col-lg-5  ">
             <div className="row">
               <div className="col-sm-6">
                 <div className="footer-widget contact-info-widget">
@@ -276,23 +276,27 @@ const FollowIcon = () => (
                       <i className="fas fa-play" />
                     </a>
                   </div> */}
+
                   <Link href="/about">
                     <a className="read-more text-success ">
                       view more <i className="fas fa-arrow-right" />
                     </a>
                   </Link>
                 </div>
-              </div>
-
-              <div className="about-page-middle rpt-55 rpb-30 wow fadeInRight delay-0-10s">
-                <div className="circle-content">
-                  <b>18+</b>
-                  <span>Years Of Experience</span>
+                <div className="about-page-middle rpt-55 rpb-30 wow fadeInRight delay-0-10s">
+                  <div style={
+                  {
+                      marginLeft: "85px"
+                    }
+                  } className="circle-content ">
+                    <b>18+</b>
+                    <span>Years Of Experience</span>
+                  </div>
                 </div>
               </div>
 
               <div>
-                <h2 className="text-success">ISO 9001:2024</h2>
+                <h2 className="text-success">ISO 9001:2015</h2>
                 <span style={{
                   fontSize: "15px",
                   lineHeight: "15px",

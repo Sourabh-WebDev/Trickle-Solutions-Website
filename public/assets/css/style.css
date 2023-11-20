@@ -12170,7 +12170,7 @@ blockquote .blockquote-footer:before {
 /******************* 33. Main Footer *******************/
 /*******************************************************/
 .footer-title {
-  margin-bottom: 25px;
+  margin-bottom: 0px;
 }
 
 .footer-widget {

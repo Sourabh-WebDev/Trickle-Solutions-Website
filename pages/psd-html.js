@@ -22,7 +22,7 @@ const psdhtml = () => {
     return (
 
         <Layout>
-            <PageBanner pageName={"PSD To HTML Services"} img={"https://lform.com/cms/resources/media/2021/01/custom-web-development-app-1184x694.jpg"} />
+            <PageBanner pageName={"Figma To HTML Services"} img={"https://lform.com/cms/resources/media/2021/01/custom-web-development-app-1184x694.jpg"} />
             <section className="course-details-area pt-130 rpt-100">
                 <div className="container">
                     <div className="row large-gap">
@@ -41,7 +41,7 @@ const psdhtml = () => {
                                         <span>(50)</span>
                                     </div>
                                 </div>
-                                <h2>PSD To HTML Services</h2>
+                                <h2>Figma To HTML Services</h2>
                                 {/* <ul className="author-date-enroll">
                                     <li>
                                         <img

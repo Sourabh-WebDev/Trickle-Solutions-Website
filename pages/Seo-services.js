@@ -12,6 +12,8 @@ const Seoservices = () => {
 
     const tasks = [
 
+        'The server address is an external IP address that connects your computer to the Internet Service Provider (ISP), enabling access to various domains worldwide.',
+        ' Look for the “IPv4 Address” under the “Ethernet adapter” or “Wi-Fi” section.',
         'Re-marketing / Display campaign creation',
         'Merchant Center Account creation for E-commerce',
         'Uploading of shopping feed in the Merchant Center account',
@@ -65,11 +67,9 @@ const Seoservices = () => {
                                     />
                                 </div>
                                 <p>
-                                    static website is one that has web pages stored on the server in the format that is sent to a client web browser.
-                                    It is primarily coded in Hypertext Markup Language (HTML); Cascading Style Sheets (CSS) are used to control appearance beyond basic HTML.
-                                    Images are commonly used to effect the desired appearance and as part of the main content. Audio or video might also be considered “static” content if it plays automatically or is generally non-interactive.
-                                    This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus.
-
+                                In a digital ecosystem where every business is competing to rank on the first page of Google, search engine optimization is the success mantra to mark your existence. Any page that is not ranked on the first search engine result page is considered non-existent and lost amidst million flop websites. With search engine optimization, you not only get to rank on the top page for your keyword but also enjoy higher visibility that drives more traffic. WeblinkIndia, a leading 
+                                correct the imperfections and prepare the website to cater the requirements of the users as well as search engines. This tiring process covers the improvements like SEO tagging, internal linking, content optimization etc.
+                                Designed by Microsoft, Windows Server is a group of operating systems to support enterprises and small and medium-sized businesses with data storage, communications, and applications.
                                 </p>
 
                               
@@ -445,19 +445,15 @@ const Seoservices = () => {
                                     ))
                                 }
                                 <li>
-                                    Text editors, such as Notepad or TextEdit, where content and HTML markup are manipulated directly within the editor program
-
+                                A DNS server is a computer server that contains a database of public IP addresses and their associated hostnames
                                 </li>
                                 <li>
-                                    WYSIWYG offline editors, such as Microsoft FrontPage and Adobe Dreamweaver (previously Macromedia Dreamweaver), with which the site is edited using a GUI and the final HTML markup is generated automatically by the editor software
-
+                                sharing services with multiple users and providing administrative control over storage, applications, and corporate networks.
                                 </li>
                                 <li>
-                                    WYSIWYG online editors which create media rich online presentation like web pages, widgets, intro, blogs, and other documents.
+                                Microsoft Windows Server 2022 is the latest version of the popular server operating system developed by Microsoft.
                                 </li>
                             </ul>
-
-                          
 
                             {/* <div className="course-sidebar rmt-75">
                                 <div className="widget widget-course-details wow fadeInUp delay-0-2s">

@@ -11,6 +11,9 @@ const Wordpressdevelopment = () => {
     };
 
     const tasks = [
+        'Hone and Align Relevant Skills',
+        'Establish a Payment System (If Applicable)',
+        ' You can add a Custom HTML block, edit a single block as HTML, or edit the entire page/post HTML with the code editor',
         'Re-marketing / Display campaign creation',
         'Merchant Center Account creation for E-commerce',
         'Uploading of shopping feed in the Merchant Center account',
@@ -448,12 +451,10 @@ const Wordpressdevelopment = () => {
 
                                 </li>
                                 <li>
-                                    WYSIWYG offline editors, such as Microsoft FrontPage and Adobe Dreamweaver (previously Macromedia Dreamweaver), with which the site is edited using a GUI and the final HTML markup is generated automatically by the editor software
-
+                                WordPress is a website-building platform that requires little to no coding experience for the average user. 
                                 </li>
                                 <li>
-                                    WYSIWYG online editors which create media rich online presentation like web pages, widgets, intro, blogs, and other documents.
-                                </li>
+                                WordPress is a content management system (CMS) that allows you to host and build websites                                </li>
                             </ul>
 
                           

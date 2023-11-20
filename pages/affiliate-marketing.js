@@ -452,11 +452,8 @@ const affiliatemarketing = () => {
 
                                 </li>
                                 <li>
-                                    WYSIWYG offline editors, such as Microsoft FrontPage and Adobe Dreamweaver (previously Macromedia Dreamweaver), with which the site is edited using a GUI and the final HTML markup is generated automatically by the editor software
-
                                 </li>
                                 <li>
-                                    WYSIWYG online editors which create media rich online presentation like web pages, widgets, intro, blogs, and other documents.
                                 </li>
                             </ul>
 
