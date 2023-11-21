@@ -463,7 +463,7 @@ const phpdevelopment = () => {
 
                     <div className="image mb-35">
                         <img
-                            src="https://m.indiamart.com/proddetail/php-development-21025606888.html"
+                            src="https://5.imimg.com/data5/MA/HR/BH/SELLER-56858655/php-development-500x500.png"
                             alt="Course Details"
                         />
                     </div>

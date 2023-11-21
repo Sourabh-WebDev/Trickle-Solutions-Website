@@ -42,7 +42,7 @@ const ContactUs = () => {
                       <i className="fas fa-phone-volume" />
                       <h4>Hotlines</h4>
                       <span>
-                        <a href="callto:+917290900835">7290900835</a>
+                        <a href="callto:+917290900835">+91-7290900835</a>
                       </span>
                     </div>
                   </div>
