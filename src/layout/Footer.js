@@ -79,7 +79,7 @@ const FollowIcon = () => (
         <Link href="/contact">Support</Link>
       </li>
       <li>
-        <Link href="/contact">Video Guides</Link>
+        <Link href="/contact">Video Guides</Link
       </li>
       <li>
         <Link href="/contact">Documentation</Link>
@@ -123,13 +123,13 @@ const FollowIcon = () => (
         <div className="row text-white pt-75">
           <div className="col-lg-3 col-sm-4">
             <div className="footer-widget about-widget">
-              <h5 className="footer-title text-success">Designing</h5>
+              <h5 className="footer-title text-success">Design</h5>
               <li>
-                <Link href="/website-designing">Website Designing</Link>
+                <Link href="/website-designing">Website Design</Link>
               </li>
 
               <li>
-                <Link href="/graphic-designing">Graphic Designing</Link>
+                <Link href="/graphic-designing">Graphic Designg</Link>
               </li>
 
               <li>
@@ -175,7 +175,7 @@ const FollowIcon = () => (
               </li>
 
               <li>
-                <Link href="/app-development">App Development</Link>
+                <Link href="/app-development"> Mobile App Dev. </Link>
               </li>
 
               <li>
@@ -217,7 +217,7 @@ const FollowIcon = () => (
               </li>
 
               <li>
-                <Link href="/affiliate-marketing">Affiliate Maketing</Link>
+                <Link href="/affiliate-marketing">Affiliate Marketing</Link>
               </li>
 
               <li>
@@ -257,7 +257,7 @@ const FollowIcon = () => (
                     </li>
                     <li>
                       <i className="far fa-clock" /> Monday - Saturday,
-                      <br /> 10 am - 06 pm
+                      <br />  9:30AM  - 06:30PM
                     </li>
                   </ul>
                 </div>

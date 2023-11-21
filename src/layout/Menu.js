@@ -8,67 +8,66 @@ const designingList = [
   {
 
     id: 1,
-    Services: "Website Designing",
+    Services: "Website Design",
     link: "/website-designing"
   },
 
 
   {
-    id: 2, Services: "Graphic Designing",
+    id: 2, Services: "Graphic Design",
     link: "/graphic-designing"
   },
 
 
   {
-    id: 7, Services: "Figma To HTML Designing",
+    id:3 , Services: "Figma To HTML Design",
     link: "/psd-html"
   },
 
 
   {
-    id: 10, Services: "Logo Design Service",
+    id: 4, Services: "Logo Design Service",
     link: "/logo-services"
   },
 
 
   {
-    id: 13, Services: "Mobile Web Designing",
+    id: 5, Services: "Mobile Web Design",
     link: "/mobile-web"
   },
 
 
   {
-    id: 16, Services: "Content Writing Service",
+    id: 6, Services: "Content Writing Service",
     link: "/content-services"
   },
 
   {
-    id: 19, Services: "Static Web Design",
+    id: 7, Services: "Static Web Design",
     link: "/static-design"
   },
-
 ]
 const developmentList = [
 
   {
-    id: 2, Services: "App Dvelopment",
+    id: 1, Services: " Mobile App Development",
     link: "/app-development"
   },
 
 
   {
-    id: 5, Services: "Website Development",
+    id: 2, Services: "Website Development",
     link: "/website-development"
   },
 
   {
-    id: 8, Services: "MERN Development",
+    id: 3, Services: "MERN Development",
     link: "/Mern-development"
   },
 
 
   {
-    id: 11, Services: "WordPress Development",
+    id: 4, Services: "WordPress Development",
     link: "/Wordpress-development"
   },
 
@@ -114,14 +113,14 @@ const marketingList = [
 
 
   {
-    id: 12, Services: "Window Dedicated Server",
+    id: 1, Services: "Window Dedicated Server",
     link: "/window-server"
   },
 
 
 
   {
-    id: 15, Services: "Affiliate Maketing",
+    id: 15, Services: "Affiliate Marketing",
     link: "/affiliate-marketing"
   },
 
@@ -181,8 +180,8 @@ export const Services = () => (
 
     <div className="row">
 
-      <div className="col-4 text-center p-3 ">
-        <h4 className="text-primary">Designing</h4>
+      <div className="col-lg-4 col-sm-12 text-center p-3 ">
+        <h4 className="text-primary">Design</h4>
 
         {designingList.map((item, index) => (
           <li style={{ display: 'flex', justifyContent: 'center' }} key={index}>
@@ -190,7 +189,7 @@ export const Services = () => (
           </li>
         ))}
       </div>
-      <div className="col-4 text-center  p-3 ">
+      <div className="col-lg-4 col-sm-12 text-center  p-3 ">
         <h4 className="text-primary">Development</h4>
 
         {developmentList.map((item, index) => (
@@ -199,7 +198,7 @@ export const Services = () => (
           </li>
         ))}
       </div>
-      <div className="col-4 text-center p-3 ">
+      <div className="col-lg-4 col-sm-12 text-center p-3 ">
         <h4 className="text-primary">Marketing</h4>
 
         {marketingList.map((item, index) => (
