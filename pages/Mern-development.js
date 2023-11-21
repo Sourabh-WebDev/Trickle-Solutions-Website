@@ -10,24 +10,25 @@ const Merndevelopment = () => {
   };
 
   const tasks = [
-    'Weekly campaign optimization to maintain leads and cost per lead',
+    'React is a JavaScript library for building user interfaces',
+    ' The MERN stack is relatively cost-effective, as there are no expensive licensing fees',
     'Re-marketing / Display campaign creation',
     'Merchant Center Account creation for E-commerce',
     'Uploading of shopping feed in the Merchant Center account',
-    'Dynamic Re-marketing campaign'
+    'Node.js is a JavaScript runtime environment that allows you to run JavaScript code outside of a browser.'
 
   ];
 
   return (
     <Layout>
-      <PageBanner pageName={"Mern Development"} img={""} />
+      <PageBanner pageName={"MERN Development"} img={""} />
       <section className="course-details-area pt-130 rpt-100">
         <div className="container">
           <div className="row large-gap">
             <div className="col-lg-6">
               <div className="course-details-content">
                 <div className="course-header">
-                  <span className="category">Mern Development</span>
+                  <span className="category">MERN Development</span>
                   <img src="assets/images/shapes/line-shape.png" alt="Line" />
                   <span className="off">30% off</span>
                   <div className="ratting">
@@ -39,7 +40,7 @@ const Merndevelopment = () => {
                     <span>(50)</span>
                   </div>
                 </div>
-                <h2> Mern Development</h2>
+                <h2> MERN Development</h2>
                 {/* <ul className="author-date-enroll">
                                     <li>
                                         <img
@@ -63,11 +64,8 @@ const Merndevelopment = () => {
                   />
                 </div>
                 <p>
-                  static website is one that has web pages stored on the server in the format that is sent to a client web browser.
-                  It is primarily coded in Hypertext Markup Language (HTML); Cascading Style Sheets (CSS) are used to control appearance beyond basic HTML.
-                  Images are commonly used to effect the desired appearance and as part of the main content. Audio or video might also be considered “static” content if it plays automatically or is generally non-interactive.
-                  This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus.
-
+                Web develoment refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. One of the most famous stack that is used for Web Development is MERN stack.
+                Yes, MERN is a full stack, following the traditional three-tier architectural pattern, including the front-end display tier (React.js), application tier (Express.js and Node.js), and database tier (MongoDB).
                 </p>
                 <p>
                   Mern Stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based .
@@ -452,7 +450,7 @@ const Merndevelopment = () => {
             </div>
             <div className="col-lg-6">
 
-              <h3 className="mt-40">Static website</h3>
+              <h3 className="mt-40">MERN Development</h3>
               <ul className="list-style-two mb-45">
 
                 {
@@ -463,15 +461,11 @@ const Merndevelopment = () => {
                   ))
                 }
                 <li>
-                  Text editors, such as Notepad or TextEdit, where content and HTML markup are manipulated directly within the editor program
+                Express is a web application framework that provides a robust set of features for routing, middleware, and templating.
 
                 </li>
                 <li>
-                  WYSIWYG offline editors, such as Microsoft FrontPage and Adobe Dreamweaver (previously Macromedia Dreamweaver), with which the site is edited using a GUI and the final HTML markup is generated automatically by the editor software
-
-                </li>
-                <li>
-                  WYSIWYG online editors which create media rich online presentation like web pages, widgets, intro, blogs, and other documents.
+                MongoDB is a NoSQL database that is well-suited for storing JSON-like documents.
                 </li>
               </ul>
 

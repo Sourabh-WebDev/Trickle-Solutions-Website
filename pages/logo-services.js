@@ -12,14 +12,14 @@ const logoservices = () => {
 
     const tasks = [
     
-        'Increase keyword quality score (improve landing page experience, ctr and ad relevancy)',
+        'Logo design is undertaken after a thorough analysis of your brand',
         'Improve the keywords performance using search term report (adding keywords and -ve keywords)',
         'Usage of conversion optimizer after 15 conversions in the account',
         'Weekly campaign optimization to maintain leads and cost per lead',
-        'Re-marketing / Display campaign creation',
-        'Merchant Center Account creation for E-commerce',
+        'Logo design cost in India depends on multiple factors',
+        'Yes. We can create any type of graphic identity that suits your requirement',
         'Uploading of shopping feed in the Merchant Center account',
-        'Dynamic Re-marketing campaign'
+        'We have many packages to suit various business logo design needs'
 
     ];
 
@@ -64,7 +64,7 @@ const logoservices = () => {
                                 </ul> */}
                                 <div className="image mb-35">
                                     <img
-                                        src="https://tricklesolutions.com/wp-content/uploads/2019/03/web-design.png"
+                                        src="https://static.weblinkindia.net/images/logo-h.webp"
                                         alt="Course Details"
                                     />
                                 </div>
@@ -74,9 +74,8 @@ const logoservices = () => {
                                 That is why designing a Logo is the most crucial area of graphical designing and the most difficult area to master as well.
                                  When expertise to create a design that connects with audience meets the brilliance of designing techniques, then a logo is created which is clear, 
                                  crisp and creative. A technically excellent logo doesn’t change its effectiveness whether resized or presented in full color, black and white or half tone shades. 
-                                </p>
-
-                              
+                                 We welcome your creative thoughts. Share your ideas with us and our talented graphic designers can translate your vision and create logo designs based on your concept. We can also provide alternative suggestions – the more the merrier!
+                                </p> 
                                 {/* <h3 className="mt-40">Requirements</h3>
                                 <ul className="list-style-two mb-45">
                                     <li>
@@ -449,20 +448,13 @@ const logoservices = () => {
                                     ))
                                 }
                                 <li>
-                                    Text editors, such as Notepad or TextEdit, where content and HTML markup are manipulated directly within the editor program
-
+                                We have many packages to suit various business logo design needs.
                                 </li>
                                 <li>
-                                    WYSIWYG offline editors, such as Microsoft FrontPage and Adobe Dreamweaver (previously Macromedia Dreamweaver), with which the site is edited using a GUI and the final HTML markup is generated automatically by the editor software
-
+                                We provide varied and multiple design concepts for our clients to choose from.
                                 </li>
-                                <li>
-                                    WYSIWYG online editors which create media rich online presentation like web pages, widgets, intro, blogs, and other documents.
-                                </li>
+                               
                             </ul>
-
-                          
-
                             {/* <div className="course-sidebar rmt-75">
                                 <div className="widget widget-course-details wow fadeInUp delay-0-2s">
                                     <div className="widget-video">

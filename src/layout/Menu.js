@@ -3,98 +3,43 @@ import { Fragment } from "react";
 
 
 
-
-const serviceList = [
+const designingList = [
 
   {
+
     id: 1,
     Services: "Website Designing",
     link: "/website-designing"
   },
 
-  {
-    id: 2, Services: "App Dvelopment",
-    link: "/app-development"
-  },
 
   {
-    id: 3, Services: "Digital Marketing",
-    link: "/digital-Markrting"
-  },
-
-  {
-    id: 4, Services: "Graphic Designing",
+    id: 2, Services: "Graphic Designing",
     link: "/graphic-designing"
   },
 
-  {
-    id: 5, Services: "Website Development",
-    link: "/website-development"
-  },
 
   {
-    id: 6, Services: "Web Hosting",
-    link: "/web-hosting"
-  },
-
-  {
-    id: 7, Services: "Figma To HTML Services",
+    id: 7, Services: "Figma To HTML Designing",
     link: "/psd-html"
   },
 
-  {
-    id: 8, Services: "MERN Development",
-    link: "/Mern-development"
-  },
 
   {
-    id: 9, Services: "SEO/SMO Services",
-    link: "/Seo-services"
-  },
-
-  {
-    id: 10, Services: "Logo Design Services",
+    id: 10, Services: "Logo Design Service",
     link: "/logo-services"
   },
 
-  {
-    id: 11, Services: "WordPress Development",
-    link: "/Wordpress-development"
-  },
 
   {
-    id: 12, Services: "Window Dedicated Server",
-    link: "/window-server"
-  },
-
-  {
-    id: 13, Services: "Mobile Web Design",
+    id: 13, Services: "Mobile Web Designing",
     link: "/mobile-web"
   },
 
-  {
-    id: 14, Services: "PHP Development",
-    link: "/Php-development"
-  },
 
   {
-    id: 15, Services: "Affiliate Maketing",
-    link: "/affiliate-marketing"
-  },
-
-  {
-    id: 16, Services: "Content Writing Services",
+    id: 16, Services: "Content Writing Service",
     link: "/content-services"
-  },
-
-  {
-    id: 17, Services: "Native Development",
-    link: "/Native-development"
-  },
-
-  {
-    id: 18, Services: "Multi Testing Services",
-    link: "/testing-services"
   },
 
   {
@@ -102,10 +47,90 @@ const serviceList = [
     link: "/static-design"
   },
 
+]
+const developmentList = [
+
+  {
+    id: 2, Services: "App Dvelopment",
+    link: "/app-development"
+  },
+
+
+  {
+    id: 5, Services: "Website Development",
+    link: "/website-development"
+  },
+
+  {
+    id: 8, Services: "MERN Development",
+    link: "/Mern-development"
+  },
+
+
+  {
+    id: 11, Services: "WordPress Development",
+    link: "/Wordpress-development"
+  },
+
+
+  {
+    id: 14, Services: "PHP Development",
+    link: "/Php-development"
+  },
+
+
+  {
+    id: 17, Services: "Native App Development",
+    link: "/Native-development"
+  },
+
+
   {
     id: 20, Services: "Web Portal Development",
     link: "/webportal-development"
   },
+
+
+]
+const marketingList = [
+
+
+  {
+    id: 3, Services: "Digital Marketing",
+    link: "/digital-Markrting"
+  },
+
+  {
+    id: 6, Services: "Web Hosting",
+    link: "/web-hosting"
+  },
+
+
+  {
+    id: 9, Services: "SEO/SMO Services",
+    link: "/Seo-services"
+  },
+
+
+
+  {
+    id: 12, Services: "Window Dedicated Server",
+    link: "/window-server"
+  },
+
+
+
+  {
+    id: 15, Services: "Affiliate Maketing",
+    link: "/affiliate-marketing"
+  },
+
+
+  {
+    id: 18, Services: "Multi Testing Services",
+    link: "/testing-services"
+  },
+
 
   {
     id: 21, Services: "Ecommerence Web Hosting",
@@ -152,21 +177,37 @@ export const Courses = () => (
 
 export const Services = () => (
 
-
-
-
   <Fragment>
 
     <div className="row">
-      {
-        serviceList.map((item, index) => (
-          <div className="col-4">
-            <li key={index}>
-              <Link href={item.link}>{item.Services}</Link>
-            </li>
-          </div>
-        ))
-      }
+
+      <div className="col-4 text-center p-3 ">
+        <h4 className="text-primary">Designing</h4>
+
+        {designingList.map((item, index) => (
+          <li style={{ display: 'flex', justifyContent: 'center' }} key={index}>
+            <Link href={item.link}>{item.Services}</Link>
+          </li>
+        ))}
+      </div>
+      <div className="col-4 text-center  p-3 ">
+        <h4 className="text-primary">Development</h4>
+
+        {developmentList.map((item, index) => (
+          <li style={{ display: 'flex', justifyContent: 'center' }} key={index}>
+            <Link href={item.link}>{item.Services}</Link>
+          </li>
+        ))}
+      </div>
+      <div className="col-4 text-center p-3 ">
+        <h4 className="text-primary">Marketing</h4>
+
+        {marketingList.map((item, index) => (
+          <li style={{ display: 'flex', justifyContent: 'center' }} key={index}>
+            <Link href={item.link}>{item.Services}</Link>
+          </li>
+        ))}
+      </div>
     </div>
     {/* <li>
       <Link href="/website-designing">Website Designing</Link>

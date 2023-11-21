@@ -11,12 +11,7 @@ const Nativedevelopment = () => {
     };
 
     const tasks = [
-        'Text editors, such as Notepad or TextEdit, where content and HTML markup are manipulated directly within the editor program',
-        'Static websites can be edited using four broad categories of software:',
-        'Static websites may still use server side includes (SSI) as an editing convenience, such as sharing a common menu bar across many pages. As the site’s behaviour to the reader is still static, this is not considered a dynamic site.',
-        'Websites can be accessed via a public Internet Protocol (IP) network, such as the Internet, or a private local area network (LAN), by a uniform resource locator (URL) that identifies the site. ',
-        'Technology, Creativity, and Business, are threaded together to extract the best of the web for your brand with our experienced customer-first approach and a team in love with web design technology. ',
-        'Implementation of Re-marketing & Conversion tracking code on the site',
+        
         'Increase keyword quality score (improve landing page experience, ctr and ad relevancy)',
         'Improve the keywords performance using search term report (adding keywords and -ve keywords)',
         'Usage of conversion optimizer after 15 conversions in the account',
@@ -24,7 +19,7 @@ const Nativedevelopment = () => {
         'Re-marketing / Display campaign creation',
         'Merchant Center Account creation for E-commerce',
         'Uploading of shopping feed in the Merchant Center account',
-        'Dynamic Re-marketing campaign'
+        
 
     ];
 
@@ -73,10 +68,13 @@ const Nativedevelopment = () => {
                             />
                         </div>
                         <p>
-                            static website is one that has web pages stored on the server in the format that is sent to a client web browser.
-                            It is primarily coded in Hypertext Markup Language (HTML); Cascading Style Sheets (CSS) are used to control appearance beyond basic HTML.
-                            Images are commonly used to effect the desired appearance and as part of the main content. Audio or video might also be considered “static” content if it plays automatically or is generally non-interactive.
-                            This type of website usually displays the same information to all visitors. Similar to handing out a printed brochure to customers or clients, a static website will generally provide consistent, standard information for an extended period of time. Although the website owner may make updates periodically, it is a manual process to edit the text, photos and other content and may require basic website design skills and software. Simple forms or marketing examples of websites, such as classic website, a five-page website or a brochure website are often static websites, because they present pre-defined, static information to the user. This may include information about a company and its products and services through text, photos, animations, audio/video, and navigation menus.
+                        Native app development means creating a mobile application that is tailored and dedicated to a specified platform like iOS, or Android.
+                        Because native applications are built specifically for the operating system, they provide higher user engagement than hybrid apps.
+                         Native mobile apps generally perform and look better than their web-based counterparts, which must serve numerous platforms. Furthermore, 
+                         native mobile applications have access to devise hardware and capabilities, such as sensors and cameras, that are not available via a mobile browser interface alone.
+                         Native applications are more complicated to create than mobile websites. There's no need to be concerned about browser compatibility or behavior. You may use the native capabilities of mobile operating systems to create a richer user experience and implement app features.
+
+
 
                         </p>
 
@@ -453,16 +451,15 @@ const Nativedevelopment = () => {
                             ))
                         }
                         <li>
-                            Text editors, such as Notepad or TextEdit, where content and HTML markup are manipulated directly within the editor program
+                        Swift Playgrounds, a learning platform for Swift development,
 
                         </li>
                         <li>
-                            WYSIWYG offline editors, such as Microsoft FrontPage and Adobe Dreamweaver (previously Macromedia Dreamweaver), with which the site is edited using a GUI and the final HTML markup is generated automatically by the editor software
+                        iOS SDK integrated with the Cocoa Touch UI framework,
 
                         </li>
                         <li>
-                            WYSIWYG online editors which create media rich online presentation like web pages, widgets, intro, blogs, and other documents.
-                        </li>
+                        Users can interact with apps using actions and gestures they're already familiar with if they follow particular standards.</li>
                     </ul>
 
                   

@@ -11,6 +11,8 @@ const windowserver = () => {
     };
 
     const tasks = [
+        
+        ' Show up where shoppers are and increase site traffic and sales',
         'Support For MS, VB, MS Access And MS SQL',
         'Support For Microsoft Web Development Tools',
         'Support For Microsoft Sharepoint Services',
@@ -447,15 +449,12 @@ const windowserver = () => {
                                 }
                                 <li>
                                     Text editors, such as Notepad or TextEdit, where content and HTML markup are manipulated directly within the editor program
-
                                 </li>
                                 <li>
-                                    WYSIWYG offline editors, such as Microsoft FrontPage and Adobe Dreamweaver (previously Macromedia Dreamweaver), with which the site is edited using a GUI and the final HTML markup is generated automatically by the editor software
-
+                                We guarantee our clients 99.9% network uptime with our IP network powered by high capacity routers and switches.
                                 </li>
                                 <li>
-                                    WYSIWYG online editors which create media rich online presentation like web pages, widgets, intro, blogs, and other documents.
-                                </li>
+                                 You get an easy to use cPanel DNS manager to host a large number of DNS zones, records, and domain names.                                </li>
                             </ul>
 
 
