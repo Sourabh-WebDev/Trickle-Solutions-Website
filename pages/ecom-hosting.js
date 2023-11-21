@@ -455,9 +455,6 @@ const ecomhosting = () => {
                                     
                                 </li>
                             </ul>
-
-
-
                             {/* <div className="course-sidebar rmt-75">
                                 <div className="widget widget-course-details wow fadeInUp delay-0-2s">
                                     <div className="widget-video">

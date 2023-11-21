@@ -10,7 +10,7 @@ const Faq = () => {
     { title: "Diffent Between UX and UI Design ?" },
     { title: "Importance Of Typography ?" },
     { title: "What is Warframe ?" },
-    { title: "evelopers Need To Know About Figma ?" },
+    { title: "Developers Need To Know About Figma ?" },
   ];
   const faqsRight = [
     { title: "What is Web Design ?" },
@@ -40,6 +40,8 @@ const Faq = () => {
               incididunt ut labore et dolore magna aliqua. Quis ipsum suspendise
               ultre gravida. risus commodo viverra maecenas accumsan lacus.{" "}
             </p>
+
+            
           </WellernAccordion>
         ))}
       </div>

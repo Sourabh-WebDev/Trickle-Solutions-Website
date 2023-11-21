@@ -15,6 +15,11 @@
   ],
   "rootMainFiles": [],
   "pages": {
+    "/": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -25,15 +30,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/ecom-hosting": [
+    "/contact": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/ecom-hosting.js"
+      "static/chunks/pages/contact.js"
     ],
-    "/testing-services": [
+    "/faqs": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/testing-services.js"
+      "static/chunks/pages/faqs.js"
     ]
   },
   "ampFirstPages": []

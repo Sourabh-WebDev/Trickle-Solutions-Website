@@ -112,7 +112,7 @@ const FollowIcon = () => (
   ),
   CopyRight = () => (
     <p>
-      © <Link href="/">Copyright 2016-2023 Trickle Solutions Pvt. Ltd.</Link> All rights
+      © <Link href="/">Copyright 2016-2023 Trickle Solutions</Link> All rights
       reserved.
     </p>
   ),
@@ -249,14 +249,14 @@ const FollowIcon = () => (
                     </li>
                     <li>
                       <i className="far fa-envelope" />{" "}
-                      <a href="mailto:support@gmail.com">info@tricklsolution.com</a>
+                      <a href="mailto:support@gmail.com">info@tricklesolutions.com</a>
                     </li>
                     <li>
                       <i className="fas fa-phone" />{" "}
-                      <a href="callto:+91 7290900835">7290900835</a>
+                      <a href="callto:+91 7290900835">+91-7290900835</a>
                     </li>
                     <li>
-                      <i className="far fa-clock" /> Monday - Friday,
+                      <i className="far fa-clock" /> Monday - Saturday,
                       <br /> 10 am - 06 pm
                     </li>
                   </ul>
@@ -289,7 +289,7 @@ const FollowIcon = () => (
                       marginLeft: "85px"
                     }
                   } className="circle-content ">
-                    <b>18+</b>
+                    <b>12+</b>
                     <span>Years Of Experience</span>
                   </div>
                 </div>
@@ -427,11 +427,11 @@ const FollowIcon = () => (
                 </li>
                 <li>
                   <i className="fas fa-phone" />{" "}
-                  <a href="callto:7290900835">7290900835</a>
+                  <a href="callto:7290900835">+91-7290900835</a>
                 </li>
                 <li>
-                  <i className="far fa-clock" /> Monday - Friday,
-                  <br /> 10 am - 06 pm
+                  <i className="far fa-clock" /> Monday - Saturday,
+                  <br /> 9:30 AM - 06:30 PM
                 </li>
               </ul>
             </div>
