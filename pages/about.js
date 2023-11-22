@@ -26,8 +26,17 @@ const About = () => {
                   viverra maecenas accusan
                 </p> */}
                 <b>
-                  Trickle Solutions are a technology driven and innovation oriented progressive
-                  company which provides a distinct platform that caters to a wide range of customers across the globe.
+                  Trickle Solutions is a leading provider of Web and Windows based IT Solutions ,
+                  centralized in Ghaziabad. We are experts in designing and developing custom built Web,
+                  Window & Mobile applications that serve as pillars to our client’s operations.
+                  The company was established with an objective to engage in the business of IT Solutions
+                  in every field and on advanced technologies, which is to engineer & provide optimized
+                  Products and Services.
+                  Trickle Solutions delivers quality and timely solutions and services at a price that make
+                  our clients smile. Trickle Solutions focuses on offshore development as well at our
+                  excellence centre in Noida, India. This allows us to scale up rapidly (leveraging on the
+                  plentiful supply of talent and thus cutting down on execution time) at coststhat are on an
+                  average70%cheaper.
 
                 </b>
                 <div className="about-btns pt-25">
@@ -48,7 +57,7 @@ const About = () => {
               <div className="about-page-middle rpt-55 rpb-30 wow fadeInRight delay-0-2s">
                 <img src="assets/images/about/about-page.png" alt="About" />
                 <div className="circle-content">
-                  <b>10+</b>
+                  <b>12+</b>
                   <span>Years Of Experience</span>
                 </div>
               </div>
@@ -116,7 +125,7 @@ const About = () => {
                 </div>
                 <h4>Experts Minds</h4>
                 <p>
-                Trickle Solutions are a technology  Our Mission is to provide best and innovative IT and Software solutions to current industry and user needs.
+                  Trickle Solutions are a technology  Our Mission is to provide best and innovative IT and Software solutions to current industry and user needs.
                 </p>
                 <Link href="/about">
                   <a className="details-btn">
@@ -132,7 +141,7 @@ const About = () => {
                 </div>
                 <h4>Multiple Courses</h4>
                 <p>
-                Trickle Solutions are a technology Sed ut persiciatis omnis natus voluptate accsantie doloreue
+                  Trickle Solutions are a technology Sed ut persiciatis omnis natus voluptate accsantie doloreue
                   laudantium
                 </p>
                 <Link href="/about">
@@ -149,7 +158,7 @@ const About = () => {
                 </div>
                 <h4>Hire Quickly</h4>
                 <p>
-                Trickle Solutions are a technology Sed ut persiciatis omnis natus voluptate accsantie doloreue
+                  Trickle Solutions are a technology Sed ut persiciatis omnis natus voluptate accsantie doloreue
                   laudantium
                 </p>
                 <Link href="/about">
@@ -166,7 +175,7 @@ const About = () => {
                 </div>
                 <h4>Video Tutorials</h4>
                 <p>
-                Trickle Solutions has a large pool of top IT professionals with a collective approach of a team as a whole. We mainly abide by the concept of synergy effect & focus on bringing out the best of our outputs for the satisfaction of our customers.
+                  Trickle Solutions has a large pool of top IT professionals with a collective approach of a team as a whole. We mainly abide by the concept of synergy effect & focus on bringing out the best of our outputs for the satisfaction of our customers.
                 </p>
                 <Link href="/about">
                   <a className="details-btn">
@@ -410,11 +419,9 @@ const About = () => {
               <div className="why-learn-content rmb-35">
                 <div className="section-title mb-30">
                   <span className="sub-title-two">Why Learn Us</span>
-                  <h2>Exclusive Online Course Provide Categories</h2>
+                  <h2> OUR MISSION </h2>
                 </div>
                 <p>
-                  Team Trickle Solutions  is a focused, dynamic and  progressive group, providing customers with value added products,
-                  services and innovative solution. The group has collaborated with global technology leaders & has 10 associate partners.
                 </p>
                 <div className="why-learn-feature pt-30">
                   <div className="row">
@@ -489,7 +496,7 @@ const About = () => {
                   <span>Business Manager</span>
                 </div>
                 <p>
-                Trickle Solutions has a large pool of top IT professionals with a collective approach of a team as a whole. We mainly abide by the concept of synergy effect & focus on bringing out the best of our outputs for the satisfaction of our customers.
+                  Trickle Solutions has a large pool of top IT professionals with a collective approach of a team as a whole. We mainly abide by the concept of synergy effect & focus on bringing out the best of our outputs for the satisfaction of our customers.
                 </p>
                 <div className="ratting">
                   <i className="fas fa-star" />
@@ -513,7 +520,7 @@ const About = () => {
                   <span>Business Manager</span>
                 </div>
                 <p>
-                Trickle Solutions has the ability to provide you any type of Internet service and solutions that you need. Whether you need an attractive website design or complex multi-tier internet system development, custom programming or web based promotions using latest technologies and industry trends, Trickle Solutions Technologies has the required experience and expertise to do it all at competitive prices with shorter time span.
+                  Trickle Solutions has the ability to provide you any type of Internet service and solutions that you need. Whether you need an attractive website design or complex multi-tier internet system development, custom programming or web based promotions using latest technologies and industry trends, Trickle Solutions Technologies has the required experience and expertise to do it all at competitive prices with shorter time span.
                 </p>
                 <div className="ratting">
                   <i className="fas fa-star" />
@@ -537,7 +544,7 @@ const About = () => {
                   <span>Business Manager</span>
                 </div>
                 <p>
-                Trickle Solutions has a large pool of top IT professionals with a collective approach of a team as a whole. We mainly abide by the concept of synergy effect & focus on bringing out the best of our outputs for the satisfaction of our customers.
+                  Trickle Solutions has a large pool of top IT professionals with a collective approach of a team as a whole. We mainly abide by the concept of synergy effect & focus on bringing out the best of our outputs for the satisfaction of our customers.
                 </p>
                 <div className="ratting">
                   <i className="fas fa-star" />
