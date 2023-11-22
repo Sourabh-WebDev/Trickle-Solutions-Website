@@ -20,7 +20,7 @@ const designingList = [
 
 
   {
-    id:3 , Services: "Figma To HTML Design",
+    id: 3, Services: "Figma To HTML Design",
     link: "/psd-html"
   },
 
@@ -178,7 +178,7 @@ export const Services = () => (
 
   <Fragment>
 
-    <div className="row">
+    <div style={{ overflowY: 'scroll', height: '250px' }} className="row">
 
       <div className="col-lg-4 col-sm-12 text-center p-3 ">
         <h4 className="text-primary">Design</h4>

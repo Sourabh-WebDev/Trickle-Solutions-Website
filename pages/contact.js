@@ -146,7 +146,7 @@ const ContactUs = () => {
       <div className="contact-page-map">
         <div className="our-location">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d136834.1519573059!2d-74.0154445224086!3d40.7260256534837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1639991650837!5m2!1sen!2sbd"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3561.8629429971866!2d81.04431067516401!3d26.780638465754468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399be5d4110d2229%3A0x1eee03ab1391c414!2sVestige%20Distributors%20RAJESH!5e0!3m2!1sen!2sin!4v1700562932928!5m2!1sen!2sin"
             height={975}
             style={{ border: 0, width: "100%" }}
             allowFullScreen=""
