@@ -206,11 +206,8 @@ const FollowIcon = () => (
 
           <div className="col-lg-2 col-md-3 col-sm-4">
             <div className="footer-widget menu-widget">
-<<<<<<< Updated upstream
               <h5 className="footer-title text-success">Marketing</h5>
-=======
               <h5 className="footer-title ">Marketing</h5>
->>>>>>> Stashed changes
 
               <li>
                 <Link href="/digital-Markting">Digital Marketing</Link>
