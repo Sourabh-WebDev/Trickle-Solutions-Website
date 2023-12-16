@@ -331,7 +331,7 @@ const FollowIcon = () => (
         </button>
       </div>
     </footer>
-  ),
+  )
   Footer4 = ({ scrollTop }) => (
     <footer className="main-footer footer-two bg-blue-two text-white">
       <div className="container">
